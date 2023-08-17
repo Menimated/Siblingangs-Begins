@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="red.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Void0000" x="20" y="20" width="1284" height="724"/>
+	<SubTexture name="Void0001" x="1324" y="20" width="1284" height="724"/>
+	<SubTexture name="Void0002" x="2628" y="20" width="1284" height="724"/>
+	<SubTexture name="Void0003" x="20" y="764" width="1284" height="724"/>
+	<SubTexture name="Void0004" x="1324" y="764" width="1284" height="724"/>
+	<SubTexture name="Void0005" x="2628" y="764" width="1284" height="724"/>
+	<SubTexture name="Void0006" x="20" y="1508" width="1284" height="724"/>
+	<SubTexture name="Void0007" x="1324" y="1508" width="1284" height="724"/>
+	<SubTexture name="Void0008" x="2628" y="1508" width="1284" height="724"/>
+	<SubTexture name="Void0009" x="20" y="2252" width="1284" height="724"/>
+	<SubTexture name="Void0010" x="1324" y="2252" width="1284" height="724"/>
+	<SubTexture name="Void0011" x="2628" y="2252" width="1284" height="724"/>
+	<SubTexture name="Void0012" x="20" y="2996" width="1284" height="724"/>
+	<SubTexture name="Void0013" x="1324" y="2996" width="1284" height="724"/>
+	<SubTexture name="Void0014" x="2628" y="2996" width="1284" height="724"/>
+	<SubTexture name="Void0015" x="20" y="3740" width="1284" height="724"/>
+	<SubTexture name="Void0016" x="1324" y="3740" width="1284" height="724"/>
+	<SubTexture name="Void0017" x="2628" y="3740" width="1284" height="724"/>
+	<SubTexture name="Void0018" x="20" y="4484" width="1284" height="724"/>
+	<SubTexture name="Void0019" x="20" y="20" width="1284" height="724"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hinataxml_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hinata idle0000" x="20" y="20" width="392" height="561"/>
+	<SubTexture name="hinata idle0001" x="20" y="20" width="392" height="561"/>
+	<SubTexture name="hinata idle0002" x="20" y="20" width="392" height="561"/>
+	<SubTexture name="hinata idle0003" x="20" y="20" width="392" height="561"/>
+	<SubTexture name="hinata idle0004" x="20" y="20" width="392" height="561"/>
+	<SubTexture name="hinata idle0005" x="20" y="20" width="392" height="561"/>
+</TextureAtlas>

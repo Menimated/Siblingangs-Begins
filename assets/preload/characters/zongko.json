@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-34,
+				213
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "stupid idle"
+		},
+		{
+			"offsets": [
+				511,
+				377
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "stupid left"
+		},
+		{
+			"offsets": [
+				-61,
+				211
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "stupid right"
+		},
+		{
+			"offsets": [
+				84,
+				225
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "stupid down"
+		},
+		{
+			"offsets": [
+				12,
+				494
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "stupid up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zongko",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "zongko",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

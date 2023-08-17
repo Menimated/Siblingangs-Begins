@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "boy idle"
+		},
+		{
+			"offsets": [
+				0,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "boy left"
+		},
+		{
+			"offsets": [
+				0,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "boy down"
+		},
+		{
+			"offsets": [
+				0,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "boy up"
+		},
+		{
+			"offsets": [
+				0,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "boy right"
+		},
+		{
+			"offsets": [
+				0,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "crack",
+			"indices": [],
+			"name": "boy neck crack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/big_boyle",
+	"position": [
+		-190,
+		284
+	],
+	"healthicon": "zuki&kazashi",
+	"flip_x": false,
+	"healthbar_colors": [
+		92,
+		20,
+		155
+	],
+	"camera_position": [
+		123,
+		-81
+	],
+	"sing_duration": 9.99999999999998,
+	"scale": 1
+}

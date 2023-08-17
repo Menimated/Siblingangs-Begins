@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/zuz",
+			"speed": 0.05,
+			"portrait": "zuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "LOLOLOLOL"
+		},
+		{
+			"sound": "dialogue/zuz",
+			"speed": 0.05,
+			"portrait": "zuz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I BET YOU KINDA SUCK AT THIS HAHAHAHA GET RATIO LOSER"
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Is this a training session?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredmenimated"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "talk",
+			"text": "We're trying to incorporate for a rap battle today!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gfnew"
+		},
+		{
+			"expression": "pissed",
+			"text": "if you don't know how to train then you suck!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "angry",
+			"text": "Hey, I never said I wasn't skilled at rap battle training, Dummy!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "remasteredmenimated"
+		},
+		{
+			"expression": "confused",
+			"text": "Bruh I was joking.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "happy",
+			"text": "if you don't comprehend the notes, Follow our steps!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gfnew"
+		}
+	]
+}

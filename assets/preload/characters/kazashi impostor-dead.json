@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-6
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "alive",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "dead"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kazashiImpostor",
+	"position": [
+		50,
+		260
+	],
+	"healthicon": "kazashiAmongUs",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		255
+	],
+	"camera_position": [
+		240,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

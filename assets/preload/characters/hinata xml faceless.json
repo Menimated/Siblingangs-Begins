@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-83,
+				254
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hinata right"
+		},
+		{
+			"offsets": [
+				154,
+				245
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hinata left"
+		},
+		{
+			"offsets": [
+				-80,
+				177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hinata down"
+		},
+		{
+			"offsets": [
+				-24,
+				261
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hinata up"
+		},
+		{
+			"offsets": [
+				-51,
+				251
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "hinata idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hinata xml faceless",
+	"position": [
+		-20,
+		410
+	],
+	"healthicon": "hinataxml1",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		140,
+		0
+	],
+	"camera_position": [
+		50,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,6 @@
+@bgChange src="dialogue/finalpart/pre1" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="kazashi" nameTag="" text="Be patient till my friends arrive." voclip="perweekFinale/1"
+@dialogue pos="L" portrait="kazashi" nameTag="" text="I believe that right now it almost midnight for me." voclip="perweekFinale/2"
+@dialogue pos="L" portrait="bf" nameTag="" text="Beep!" voclip="bf/voice8"
+@bgChange src="dialogue/finalpart/pre2" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="0.2s" focused="true"
+@dialogue pos="L" portrait="kazashi" nameTag="" text="Huh?" voclip="perweekFinale/3"

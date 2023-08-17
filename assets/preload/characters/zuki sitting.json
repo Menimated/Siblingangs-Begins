@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				213
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sit idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				209
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sit left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				215
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sit right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				195
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sit down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				219
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sit up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zuki sitting",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "zuki",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		30,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

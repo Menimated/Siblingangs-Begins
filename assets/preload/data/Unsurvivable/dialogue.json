@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hinataxml2",
+			"boxState": "normal",
+			"sound": "dialogue/hinataxml",
+			"expression": "talk",
+			"text": "YOU EXPECT ME TO BELIEVE THAT YOU DON\"'T CHEAT???!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfnew",
+			"boxState": "normal",
+			"sound": "dialogue/bf",
+			"expression": "talk",
+			"text": "Yeah"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hinataxml2",
+			"boxState": "normal",
+			"sound": "dialogue/hinataxml",
+			"expression": "talk",
+			"text": "I DOUBT IT"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfnew",
+			"boxState": "normal",
+			"sound": "dialogue/bf",
+			"expression": "shock",
+			"text": "WHAT?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hinataxml2",
+			"boxState": "normal",
+			"sound": "dialogue/hinataxml",
+			"expression": "talk",
+			"text": "IT'S TOO LATE TO SURVIVE NOW! BUT YOU STILL CAN'T GET AWAY WITH THIS!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hinataxml2",
+			"boxState": "normal",
+			"sound": "dialogue/hinataxml",
+			"expression": "talk",
+			"text": "IN FACT YOUR GIRLFRIEND IS NOW GONE!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfnew",
+			"boxState": "normal",
+			"sound": "dialogue/bf",
+			"expression": "angry",
+			"text": "Please stop. You're making it worse!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hinataxml2",
+			"boxState": "normal",
+			"sound": "dialogue/hinataxml",
+			"expression": "talk",
+			"text": "THAT'S TOO BAD BLUE HAIRED CHILD"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hinataxml2",
+			"boxState": "normal",
+			"sound": "dialogue/hinataxml",
+			"expression": "talk",
+			"text": "TIME TO CRUSH YOU TO DEATH!!!!!"
+		}
+	]
+}

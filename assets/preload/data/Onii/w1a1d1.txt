@@ -1,0 +1,8 @@
+@bgChange src="dialogue/finalpart/bg" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="R" portrait="bf:confused" nameTag="-Boyfriend-" text="Bap beep boop?" voclip="bf/voice5"
+@dialogue pos="L" portrait="hinata:happy" nameTag="-Hinata-" text="Yeah, Do I know you two?" voclip="week4/1"
+@dialogue pos="R" portrait="bf:confused" nameTag="-Boyfriend-" text="Beep" voclip="bf/voice7"
+@dialogue pos="L" portrait="hinata:talk" nameTag="-Hinata-" text="Let me guess. Because I have my own microphone and you have your own, you asked me to participate in a rap battle, right?" voclip="week4/2"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Yep" voclip="bf/voice3"
+@dialogue pos="L" portrait="hinata:happy" nameTag="-Hinata-" text="Cool, At least I've written a song for you." voclip="week4/3"
+@dialogue pos="L" portrait="hinata:mad" nameTag="-Hinata-" text="But don't mess around." voclip="week4/4"

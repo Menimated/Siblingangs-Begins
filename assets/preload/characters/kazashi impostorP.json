@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "sussy danceleft"
+		},
+		{
+			"offsets": [
+				27,
+				188
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "sussy danceright"
+		},
+		{
+			"offsets": [
+				23,
+				162
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sussy down"
+		},
+		{
+			"offsets": [
+				-15,
+				231
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sussy up"
+		},
+		{
+			"offsets": [
+				90,
+				187
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sussy right"
+		},
+		{
+			"offsets": [
+				-55,
+				185
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sussy left"
+		},
+		{
+			"offsets": [
+				23,
+				162
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "missdown"
+		},
+		{
+			"offsets": [
+				-15,
+				231
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "missup"
+		},
+		{
+			"offsets": [
+				90,
+				187
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "missright"
+		},
+		{
+			"offsets": [
+				-58,
+				185
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "missleft"
+		},
+		{
+			"offsets": [
+				28,
+				208
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "dead"
+		},
+		{
+			"offsets": [
+				28,
+				202
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "alive"
+		},
+		{
+			"offsets": [
+				28,
+				188
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kazashiImpostor",
+	"position": [
+		50,
+		510
+	],
+	"healthicon": "kazashiAmongUs",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		255
+	],
+	"camera_position": [
+		240,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

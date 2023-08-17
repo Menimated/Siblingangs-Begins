@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bambi.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="0" y="0" width="857" height="832"/>
+	<SubTexture name="angry0001" x="0" y="0" width="857" height="832"/>
+	<SubTexture name="angry0002" x="0" y="0" width="857" height="832"/>
+	<SubTexture name="angry0003" x="0" y="0" width="857" height="832"/>
+	<SubTexture name="angry0004" x="0" y="0" width="857" height="832"/>
+	<SubTexture name="angry0005" x="0" y="0" width="857" height="832"/>
+	<SubTexture name="happy0000" x="857" y="0" width="649" height="815"/>
+	<SubTexture name="happy0001" x="857" y="0" width="649" height="815"/>
+	<SubTexture name="happy0002" x="857" y="0" width="649" height="815"/>
+	<SubTexture name="happy0003" x="857" y="0" width="649" height="815"/>
+	<SubTexture name="happy0004" x="857" y="0" width="649" height="815"/>
+	<SubTexture name="happy0005" x="857" y="0" width="649" height="815"/>
+	<SubTexture name="sad0000" x="1506" y="0" width="676" height="803"/>
+	<SubTexture name="sad0001" x="1506" y="0" width="676" height="803"/>
+	<SubTexture name="sad0002" x="1506" y="0" width="676" height="803"/>
+	<SubTexture name="sad0003" x="1506" y="0" width="676" height="803"/>
+	<SubTexture name="sad0004" x="1506" y="0" width="676" height="803"/>
+	<SubTexture name="sad0005" x="1506" y="0" width="676" height="803"/>
+	<SubTexture name="scream0000" x="2182" y="0" width="757" height="839"/>
+	<SubTexture name="scream0001" x="2182" y="0" width="757" height="839"/>
+	<SubTexture name="scream0002" x="2182" y="0" width="757" height="839"/>
+	<SubTexture name="scream0003" x="2182" y="0" width="757" height="839"/>
+	<SubTexture name="scream0004" x="2182" y="0" width="757" height="839"/>
+	<SubTexture name="scream0005" x="2182" y="0" width="757" height="839"/>
+	<SubTexture name="shock0000" x="2939" y="0" width="649" height="815"/>
+	<SubTexture name="shock0001" x="2939" y="0" width="649" height="815"/>
+	<SubTexture name="shock0002" x="2939" y="0" width="649" height="815"/>
+	<SubTexture name="shock0003" x="2939" y="0" width="649" height="815"/>
+	<SubTexture name="shock0004" x="2939" y="0" width="649" height="815"/>
+	<SubTexture name="shock0005" x="2939" y="0" width="649" height="815"/>
+	<SubTexture name="stress0000" x="0" y="839" width="701" height="784"/>
+	<SubTexture name="stress0001" x="0" y="839" width="701" height="784"/>
+	<SubTexture name="stress0002" x="0" y="839" width="701" height="784"/>
+	<SubTexture name="stress0003" x="0" y="839" width="701" height="784"/>
+	<SubTexture name="stress0004" x="0" y="839" width="701" height="784"/>
+	<SubTexture name="stress0005" x="0" y="839" width="701" height="784"/>
+	<SubTexture name="stress20000" x="701" y="839" width="731" height="785"/>
+	<SubTexture name="stress20001" x="701" y="839" width="731" height="785"/>
+	<SubTexture name="stress20002" x="701" y="839" width="731" height="785"/>
+	<SubTexture name="stress20003" x="701" y="839" width="731" height="785"/>
+	<SubTexture name="stress20004" x="701" y="839" width="731" height="785"/>
+	<SubTexture name="stress20005" x="701" y="839" width="731" height="785"/>
+	<SubTexture name="talk0000" x="1432" y="839" width="649" height="815"/>
+	<SubTexture name="talk0001" x="1432" y="839" width="649" height="815"/>
+	<SubTexture name="talk0002" x="1432" y="839" width="649" height="815"/>
+	<SubTexture name="talk0003" x="1432" y="839" width="649" height="815"/>
+	<SubTexture name="talk0004" x="1432" y="839" width="649" height="815"/>
+	<SubTexture name="talk0005" x="1432" y="839" width="649" height="815"/>
+</TextureAtlas>

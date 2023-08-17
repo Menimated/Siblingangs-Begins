@@ -1,0 +1,7 @@
+@bgChange src="dialogue/dave/bg" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="tristan:talk" nameTag="-Tristan-" text="Hey dude, I'm only here to compete against you in rap battles!"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Beep!" voclip="bf/voice1"
+@dialogue pos="R" portrait="gf:think" nameTag="-Girlfriend-" text="Have you asked your father's permission for it?" voclip="tristanSong/1"
+@dialogue pos="L" portrait="tristan:talk" nameTag="-Tristan-" text="..."
+@dialogue pos="L" portrait="tristan:talk" nameTag="-Tristan-" text="Yeah I did."
+@dialogue pos="L" portrait="tristan:happy" nameTag="-Tristan-" text="Anyways, Let's gets started!"

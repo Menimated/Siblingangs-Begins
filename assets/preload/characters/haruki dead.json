@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-15
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "dead",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-49,
+				-25
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-23
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "alive",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/haruki-assets",
+	"position": [
+		50,
+		130
+	],
+	"healthicon": "haruki",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

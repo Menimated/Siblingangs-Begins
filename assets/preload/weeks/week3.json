@@ -1,0 +1,50 @@
+{
+	"storyName": "Violence never solved",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "park",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"See how you like it",
+			"haruki",
+			[
+				146,
+				113,
+				133
+			]
+		],
+		[
+			"Meeting",
+			"himari",
+			[
+				0,
+				113,
+				133
+			]
+		],
+		[
+			"Together",
+			"himari",
+			[
+				0,
+				113,
+				133
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"door",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

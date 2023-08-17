@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				-5
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "talk",
+			"idle_name": "talk"
+		},
+		{
+			"loop_name": "angry",
+			"idle_offsets": [
+				0,
+				-30
+			],
+			"idle_name": "angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "confused",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "shock",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "shock",
+			"anim": "shock",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "hey",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "hey",
+			"anim": "hey",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pissed",
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "BF-Dialogue"
+}

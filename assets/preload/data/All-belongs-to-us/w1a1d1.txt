@@ -1,0 +1,6 @@
+@bgChange src="dialogue/finalpart/bg4" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="Ah! You're here!" voclip="weekFinale/14"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Bap boop" voclip="bf/voice1"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="I understand you're late but that's okay!" voclip="weekFinale/15"
+@dialogue pos="L" portrait="kazashi:talk" nameTag="-Kazashi-" text="But hey, at least I just sang a new song! Are you up for a rap battle?" voclip="weekFinale/16"
+@dialogue pos="R" portrait="bf:hey" nameTag="-Boyfriend-" text="yeah!" voclip="yeah"

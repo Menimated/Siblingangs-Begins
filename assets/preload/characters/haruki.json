@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				181
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				159
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				202
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				189
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				187
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				187
+			],
+			"anim": "line",
+			"fps": 24,
+			"name": "talk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				181
+			],
+			"anim": "line2",
+			"fps": 24,
+			"name": "ow",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "what",
+			"loop": false,
+			"name": "what"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/haruki-assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "haruki",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

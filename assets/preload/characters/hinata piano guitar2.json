@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-105,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hinata right"
+		},
+		{
+			"offsets": [
+				31,
+				253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hinata left"
+		},
+		{
+			"offsets": [
+				-85,
+				234
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hinata down"
+		},
+		{
+			"offsets": [
+				-39,
+				284
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hinata up"
+		},
+		{
+			"offsets": [
+				-34,
+				253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hinata idle"
+		},
+		{
+			"offsets": [
+				-31,
+				256
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "hinata sigh"
+		},
+		{
+			"offsets": [
+				-20,
+				259
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "shocked",
+			"loop": false,
+			"name": "hinata shock"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hinata piano guitar2",
+	"position": [
+		-20,
+		390
+	],
+	"healthicon": "hinata",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		200,
+		0
+	],
+	"camera_position": [
+		50,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

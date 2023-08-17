@@ -1,0 +1,5 @@
+@playSound src="whoa"
+@bgChange src="dialogue/meni/blank" pos="-10,0" scale="0.65,0.65" transition="crossfade" time="3s" focused="true"
+@hidePanels
+@bgChange transition="crossfade" time="6s" focused="true" color="000000"
+--@wait time="44ms"

@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-57,
+				253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hinata right"
+		},
+		{
+			"offsets": [
+				101,
+				257
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hinata left"
+		},
+		{
+			"offsets": [
+				-70,
+				237
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hinata down"
+		},
+		{
+			"offsets": [
+				-49,
+				284
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hinata up"
+		},
+		{
+			"offsets": [
+				-34,
+				253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hinata idle"
+		},
+		{
+			"offsets": [
+				-85,
+				267
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "yell",
+			"loop": false,
+			"name": "yell"
+		},
+		{
+			"offsets": [
+				-35,
+				257
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "line",
+			"loop": false,
+			"name": "hinata talk"
+		},
+		{
+			"offsets": [
+				-37,
+				253
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "line2",
+			"loop": false,
+			"name": "againtalk"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hinata angry",
+	"position": [
+		-20,
+		390
+	],
+	"healthicon": "hinata",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		200,
+		0
+	],
+	"camera_position": [
+		50,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

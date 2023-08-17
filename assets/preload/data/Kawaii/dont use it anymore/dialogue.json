@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "I'm very confident I'm just as amazing as you at singing!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredkazashi"
+		},
+		{
+			"expression": "talk",
+			"text": "Should we sing a duet of my favourite song?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredkazashi"
+		},
+		{
+			"expression": "pissed",
+			"text": "Sure, game on!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "happy",
+			"text": "Heh heh...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredkazashi"
+		}
+	]
+}

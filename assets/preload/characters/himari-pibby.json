@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				44,
+				184
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "CorruptLeft"
+		},
+		{
+			"offsets": [
+				-25,
+				188
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "CorruptDown"
+		},
+		{
+			"offsets": [
+				-13,
+				207
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "CorruptUp"
+		},
+		{
+			"offsets": [
+				-28,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "CorruptRight"
+		},
+		{
+			"offsets": [
+				-19,
+				201
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "CorruptIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/himari-pibby",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pibbyhimari",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		240,
+		180
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"noteSkin": null,
+	"sing_duration": 4,
+	"scale": 1
+}

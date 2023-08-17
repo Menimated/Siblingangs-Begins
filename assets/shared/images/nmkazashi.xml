@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nmkazashi.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fire0000" x="20" y="20" width="141" height="199"/>
+	<SubTexture name="fire0001" x="181" y="20" width="141" height="199"/>
+	<SubTexture name="fire0002" x="342" y="20" width="141" height="199"/>
+	<SubTexture name="fire0003" x="503" y="20" width="141" height="199"/>
+	<SubTexture name="fire0004" x="664" y="20" width="141" height="199"/>
+	<SubTexture name="fire0005" x="825" y="20" width="141" height="199"/>
+	<SubTexture name="fire0006" x="20" y="239" width="141" height="199"/>
+	<SubTexture name="fire0007" x="181" y="239" width="141" height="199"/>
+	<SubTexture name="fire0008" x="342" y="239" width="141" height="199"/>
+	<SubTexture name="fire0009" x="503" y="239" width="141" height="199"/>
+	<SubTexture name="fire0010" x="664" y="239" width="141" height="199"/>
+	<SubTexture name="fire0011" x="825" y="239" width="141" height="199"/>
+	<SubTexture name="fire0012" x="20" y="458" width="141" height="199"/>
+	<SubTexture name="fire0013" x="181" y="458" width="141" height="199"/>
+	<SubTexture name="fire0014" x="342" y="458" width="141" height="199"/>
+	<SubTexture name="fire0015" x="503" y="458" width="141" height="199"/>
+	<SubTexture name="fire0016" x="664" y="458" width="141" height="199"/>
+</TextureAtlas>

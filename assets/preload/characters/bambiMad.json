@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-121,
+				-460
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bambi idle"
+		},
+		{
+			"offsets": [
+				-142,
+				-442
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bambi right"
+		},
+		{
+			"offsets": [
+				-112,
+				-450
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bambi left"
+		},
+		{
+			"offsets": [
+				-205,
+				-475
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bambi down"
+		},
+		{
+			"offsets": [
+				-127,
+				-355
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bambi up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-330
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "bambi smash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-330
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "bambi smash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-330
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "bambi smash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-330
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "bambi smash",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambiMad",
+	"position": [
+		-120,
+		-110
+	],
+	"healthicon": "bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		185,
+		0
+	],
+	"camera_position": [
+		120,
+		460
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

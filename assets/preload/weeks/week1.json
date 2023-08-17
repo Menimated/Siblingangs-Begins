@@ -1,0 +1,58 @@
+{
+	"storyName": "Kazashi's best life",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "home",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"door",
+		""
+	],
+	"songs": [
+		[
+			"Ikimasu",
+			"kazashi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Hop-Hop",
+			"zuki",
+			[
+				255,
+				113,
+				35
+			]
+		],
+		[
+			"Kawaii",
+			"kazashi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Prick",
+			"kazashi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

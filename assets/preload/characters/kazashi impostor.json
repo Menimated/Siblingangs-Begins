@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "sussy danceleft"
+		},
+		{
+			"offsets": [
+				27,
+				188
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "sussy danceright"
+		},
+		{
+			"offsets": [
+				4,
+				186
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sussy left"
+		},
+		{
+			"offsets": [
+				43,
+				163
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sussy down"
+		},
+		{
+			"offsets": [
+				37,
+				231
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sussy up"
+		},
+		{
+			"offsets": [
+				49,
+				189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sussy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kazashiImpostor",
+	"position": [
+		-10,
+		510
+	],
+	"healthicon": "kazashiAmongUs",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		255
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

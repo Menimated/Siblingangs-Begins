@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="everyone.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yay0000" x="20" y="20" width="1424" height="410" frameX="-1" frameY="-50" frameWidth="1425" frameHeight="460"/>
+	<SubTexture name="yay0001" x="20" y="20" width="1424" height="410" frameX="-1" frameY="-50" frameWidth="1425" frameHeight="460"/>
+	<SubTexture name="yay0002" x="20" y="450" width="1424" height="448" frameX="-1" frameY="-12" frameWidth="1425" frameHeight="460"/>
+	<SubTexture name="yay0003" x="20" y="450" width="1424" height="448" frameX="-1" frameY="-12" frameWidth="1425" frameHeight="460"/>
+	<SubTexture name="yay0004" x="20" y="918" width="1425" height="457" frameX="0" frameY="-2" frameWidth="1425" frameHeight="460"/>
+	<SubTexture name="yay0005" x="20" y="918" width="1425" height="457" frameX="0" frameY="-2" frameWidth="1425" frameHeight="460"/>
+	<SubTexture name="yay0006" x="20" y="1395" width="1425" height="458" frameX="0" frameY="-1" frameWidth="1425" frameHeight="460"/>
+	<SubTexture name="yay0007" x="20" y="1395" width="1425" height="458" frameX="0" frameY="-1" frameWidth="1425" frameHeight="460"/>
+	<SubTexture name="yay0008" x="20" y="1873" width="1425" height="460"/>
+	<SubTexture name="yay0009" x="20" y="1873" width="1425" height="460"/>
+	<SubTexture name="yay0010" x="20" y="1873" width="1425" height="460"/>
+	<SubTexture name="yay0011" x="20" y="1873" width="1425" height="460"/>
+	<SubTexture name="yay0012" x="20" y="1873" width="1425" height="460"/>
+	<SubTexture name="yay0013" x="20" y="1873" width="1425" height="460"/>
+</TextureAtlas>

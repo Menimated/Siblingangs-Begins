@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hinata angry.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="againtalk0000" x="0" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0001" x="0" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0002" x="340" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0003" x="340" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0004" x="680" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0005" x="1020" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0006" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0007" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0008" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0009" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0010" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0011" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0012" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0013" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0014" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0015" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0016" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0017" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0018" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0019" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0020" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0021" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0022" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0023" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0024" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0025" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0026" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0027" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0028" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0029" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0030" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0031" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0032" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0033" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0034" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0035" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0036" x="1700" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0037" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0038" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0039" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0040" x="1360" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0041" x="2040" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0042" x="2040" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0043" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0044" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0045" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0046" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0047" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0048" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0049" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0050" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0051" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0052" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0053" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0054" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0055" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0056" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0057" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0058" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0059" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0060" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0061" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0062" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0063" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0064" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0065" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0066" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0067" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0068" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0069" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0070" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0071" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0072" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0073" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0074" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0075" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0076" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="againtalk0077" x="2380" y="0" width="340" height="579"/>
+	<SubTexture name="hinata down0000" x="2720" y="0" width="347" height="561"/>
+	<SubTexture name="hinata down0001" x="2720" y="0" width="347" height="561"/>
+	<SubTexture name="hinata down0002" x="3067" y="0" width="347" height="561"/>
+	<SubTexture name="hinata down0003" x="3067" y="0" width="347" height="561"/>
+	<SubTexture name="hinata down0004" x="3067" y="0" width="347" height="561"/>
+	<SubTexture name="hinata down0005" x="3067" y="0" width="347" height="561"/>
+	<SubTexture name="hinata down0006" x="3067" y="0" width="347" height="561"/>
+	<SubTexture name="hinata down0007" x="3067" y="0" width="347" height="561"/>
+	<SubTexture name="hinata down0008" x="3067" y="0" width="347" height="561"/>
+	<SubTexture name="hinata down0009" x="3067" y="0" width="347" height="561"/>
+	<SubTexture name="hinata down0010" x="3067" y="0" width="347" height="561"/>
+	<SubTexture name="hinata down0011" x="3067" y="0" width="347" height="561"/>
+	<SubTexture name="hinata down0012" x="3067" y="0" width="347" height="561"/>
+	<SubTexture name="hinata down0013" x="3067" y="0" width="347" height="561"/>
+	<SubTexture name="hinata idle0000" x="3414" y="0" width="346" height="579"/>
+	<SubTexture name="hinata idle0001" x="3414" y="0" width="346" height="579"/>
+	<SubTexture name="hinata idle0002" x="0" y="579" width="346" height="579"/>
+	<SubTexture name="hinata idle0003" x="0" y="579" width="346" height="579"/>
+	<SubTexture name="hinata idle0004" x="346" y="579" width="346" height="579"/>
+	<SubTexture name="hinata idle0005" x="346" y="579" width="346" height="579"/>
+	<SubTexture name="hinata idle0006" x="692" y="579" width="346" height="579"/>
+	<SubTexture name="hinata idle0007" x="692" y="579" width="346" height="579"/>
+	<SubTexture name="hinata idle0008" x="1038" y="579" width="346" height="579"/>
+	<SubTexture name="hinata idle0009" x="1038" y="579" width="346" height="579"/>
+	<SubTexture name="hinata idle0010" x="1038" y="579" width="346" height="579"/>
+	<SubTexture name="hinata idle0011" x="1038" y="579" width="346" height="579"/>
+	<SubTexture name="hinata idle0012" x="1038" y="579" width="346" height="579"/>
+	<SubTexture name="hinata idle0013" x="1038" y="579" width="346" height="579"/>
+	<SubTexture name="hinata left0000" x="1384" y="579" width="407" height="581"/>
+	<SubTexture name="hinata left0001" x="1384" y="579" width="407" height="581"/>
+	<SubTexture name="hinata left0002" x="1791" y="579" width="407" height="581"/>
+	<SubTexture name="hinata left0003" x="1791" y="579" width="407" height="581"/>
+	<SubTexture name="hinata left0004" x="1791" y="579" width="407" height="581"/>
+	<SubTexture name="hinata left0005" x="1791" y="579" width="407" height="581"/>
+	<SubTexture name="hinata left0006" x="1791" y="579" width="407" height="581"/>
+	<SubTexture name="hinata left0007" x="1791" y="579" width="407" height="581"/>
+	<SubTexture name="hinata left0008" x="1791" y="579" width="407" height="581"/>
+	<SubTexture name="hinata left0009" x="1791" y="579" width="407" height="581"/>
+	<SubTexture name="hinata left0010" x="1791" y="579" width="407" height="581"/>
+	<SubTexture name="hinata left0011" x="1791" y="579" width="407" height="581"/>
+	<SubTexture name="hinata left0012" x="1791" y="579" width="407" height="581"/>
+	<SubTexture name="hinata left0013" x="1791" y="579" width="407" height="581"/>
+	<SubTexture name="hinata left0014" x="1791" y="579" width="407" height="581"/>
+	<SubTexture name="hinata right0000" x="2198" y="579" width="348" height="579"/>
+	<SubTexture name="hinata right0001" x="2198" y="579" width="348" height="579"/>
+	<SubTexture name="hinata right0002" x="2546" y="579" width="348" height="579"/>
+	<SubTexture name="hinata right0003" x="2546" y="579" width="348" height="579"/>
+	<SubTexture name="hinata right0004" x="2546" y="579" width="348" height="579"/>
+	<SubTexture name="hinata right0005" x="2546" y="579" width="348" height="579"/>
+	<SubTexture name="hinata right0006" x="2546" y="579" width="348" height="579"/>
+	<SubTexture name="hinata right0007" x="2546" y="579" width="348" height="579"/>
+	<SubTexture name="hinata right0008" x="2546" y="579" width="348" height="579"/>
+	<SubTexture name="hinata right0009" x="2546" y="579" width="348" height="579"/>
+	<SubTexture name="hinata right0010" x="2546" y="579" width="348" height="579"/>
+	<SubTexture name="hinata right0011" x="2546" y="579" width="348" height="579"/>
+	<SubTexture name="hinata right0012" x="2546" y="579" width="348" height="579"/>
+	<SubTexture name="hinata right0013" x="2546" y="579" width="348" height="579"/>
+	<SubTexture name="hinata right0014" x="2546" y="579" width="348" height="579"/>
+	<SubTexture name="hinata talk0000" x="2894" y="579" width="394" height="583"/>
+	<SubTexture name="hinata talk0001" x="2894" y="579" width="394" height="583"/>
+	<SubTexture name="hinata talk0002" x="3288" y="579" width="394" height="583"/>
+	<SubTexture name="hinata talk0003" x="3288" y="579" width="394" height="583"/>
+	<SubTexture name="hinata talk0004" x="3682" y="579" width="394" height="583"/>
+	<SubTexture name="hinata talk0005" x="3682" y="579" width="394" height="583"/>
+	<SubTexture name="hinata talk0006" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0007" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0008" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0009" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0010" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0011" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0012" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0013" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0014" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0015" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0016" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0017" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0018" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0019" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0020" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0021" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0022" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0023" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0024" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0025" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0026" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0027" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0028" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0029" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0030" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0031" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0032" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0033" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0034" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0035" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0036" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0037" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0038" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0039" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0040" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0041" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0042" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0043" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0044" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0045" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0046" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0047" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0048" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0049" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0050" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0051" x="0" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0052" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0053" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0054" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0055" x="394" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0056" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0057" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0058" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0059" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0060" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0061" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0062" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0063" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0064" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0065" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0066" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0067" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0068" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0069" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0070" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0071" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0072" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0073" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0074" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0075" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0076" x="788" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0077" x="1182" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0078" x="1182" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0079" x="1576" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0080" x="1576" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0081" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0082" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0083" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0084" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0085" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0086" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0087" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0088" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0089" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0090" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0091" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0092" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0093" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0094" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0095" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0096" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0097" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0098" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0099" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0100" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0101" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0102" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0103" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0104" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0105" x="1182" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0106" x="1182" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0107" x="1576" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0108" x="1576" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0109" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0110" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0111" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0112" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0113" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0114" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0115" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0116" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0117" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0118" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0119" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0120" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0121" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0122" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0123" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0124" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0125" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0126" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0127" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0128" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0129" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0130" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0131" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0132" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0133" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0134" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0135" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0136" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0137" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0138" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0139" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0140" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0141" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0142" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0143" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0144" x="1970" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0145" x="1182" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0146" x="1182" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0147" x="2364" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0148" x="2364" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0149" x="2758" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0150" x="2758" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0151" x="2758" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0152" x="2758" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0153" x="2758" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0154" x="2758" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0155" x="2758" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0156" x="2758" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0157" x="2758" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0158" x="2758" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0159" x="2758" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0160" x="3152" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0161" x="3152" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0162" x="3546" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0163" x="0" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0164" x="394" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0165" x="788" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0166" x="3546" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0167" x="0" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0168" x="394" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0169" x="788" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0170" x="3546" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0171" x="0" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0172" x="394" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0173" x="0" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0174" x="3546" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0175" x="0" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0176" x="3546" y="1162" width="394" height="583"/>
+	<SubTexture name="hinata talk0177" x="0" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0178" x="1182" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0179" x="1576" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0180" x="1182" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0181" x="1576" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0182" x="1182" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0183" x="1576" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0184" x="1182" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0185" x="1576" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0186" x="1182" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0187" x="1576" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0188" x="1182" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0189" x="1970" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0190" x="1970" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0191" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0192" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0193" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0194" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0195" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0196" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0197" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0198" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0199" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0200" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0201" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0202" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0203" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0204" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0205" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0206" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0207" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0208" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0209" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0210" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0211" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0212" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0213" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0214" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0215" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0216" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0217" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0218" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0219" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0220" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0221" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0222" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0223" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0224" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0225" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0226" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0227" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0228" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0229" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0230" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0231" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0232" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0233" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0234" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0235" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0236" x="2364" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0237" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0238" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0239" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0240" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0241" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0242" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0243" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0244" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0245" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0246" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0247" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0248" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0249" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0250" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0251" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0252" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0253" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata talk0254" x="2758" y="1745" width="394" height="583"/>
+	<SubTexture name="hinata up0000" x="3152" y="1745" width="338" height="612"/>
+	<SubTexture name="hinata up0001" x="3152" y="1745" width="338" height="612"/>
+	<SubTexture name="hinata up0002" x="3490" y="1745" width="338" height="612"/>
+	<SubTexture name="hinata up0003" x="3490" y="1745" width="338" height="612"/>
+	<SubTexture name="hinata up0004" x="3490" y="1745" width="338" height="612"/>
+	<SubTexture name="hinata up0005" x="3490" y="1745" width="338" height="612"/>
+	<SubTexture name="hinata up0006" x="3490" y="1745" width="338" height="612"/>
+	<SubTexture name="hinata up0007" x="3490" y="1745" width="338" height="612"/>
+	<SubTexture name="hinata up0008" x="3490" y="1745" width="338" height="612"/>
+	<SubTexture name="hinata up0009" x="3490" y="1745" width="338" height="612"/>
+	<SubTexture name="hinata up0010" x="3490" y="1745" width="338" height="612"/>
+	<SubTexture name="hinata up0011" x="3490" y="1745" width="338" height="612"/>
+	<SubTexture name="hinata up0012" x="3490" y="1745" width="338" height="612"/>
+	<SubTexture name="hinata up0013" x="3490" y="1745" width="338" height="612"/>
+	<SubTexture name="hinata up0014" x="3490" y="1745" width="338" height="612"/>
+	<SubTexture name="yell0000" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0001" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0002" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0003" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0004" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0005" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0006" x="340" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0007" x="340" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0008" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0009" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0010" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0011" x="340" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0012" x="340" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0013" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0014" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0015" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0016" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0017" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0018" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0019" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0020" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0021" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0022" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0023" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0024" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0025" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0026" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0027" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0028" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0029" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0030" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0031" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0032" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0033" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0034" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0035" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0036" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0037" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0038" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0039" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0040" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0041" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0042" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0043" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0044" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0045" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0046" x="0" y="2357" width="340" height="593"/>
+	<SubTexture name="yell0047" x="0" y="2357" width="340" height="593"/>
+</TextureAtlas>

@@ -1,0 +1,4 @@
+@bgChange src="dialogue/finalpart/bg3" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="R" portrait="bf:angry" nameTag="-Boyfriend-" text="Bap beep?" voclip="bf/voice1"
+@dialogue pos="L" portrait="harukiu:talk" nameTag="-Haruki-" text="Oh, you didn't realise? Your girlfriend is gone! Now it looks to be just you and I!" voclip="weekFinale/1"
+@dialogue pos="L" portrait="harukiu:talk" nameTag="-Haruki-" text="Now get ready!" voclip="weekFinale/2"

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Zuz_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stupid idle0000" x="20" y="20" width="516" height="555"/>
+	<SubTexture name="stupid idle0001" x="20" y="20" width="516" height="555"/>
+	<SubTexture name="stupid idle0002" x="20" y="20" width="516" height="555"/>
+	<SubTexture name="stupid idle0003" x="20" y="20" width="516" height="555"/>
+	<SubTexture name="stupid idle0004" x="20" y="20" width="516" height="555"/>
+	<SubTexture name="stupid idle0005" x="20" y="20" width="516" height="555"/>
+</TextureAtlas>

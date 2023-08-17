@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				83
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "awesome left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				25
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "awesome down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				144
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "awesome up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				81
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "awesome right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				76,
+				83
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "awesome idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zoongky",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "zoongky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		20,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,5 @@
+@bgChange src="dialogue/part3/bg" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Beep boop!" voclip="bf/voice1"
+@dialogue pos="L" portrait="himari:happy" nameTag="-Himari-" text="Thanks! I'm so happy I wrote my own song!" voclip="week3/29"
+@dialogue pos="L" portrait="himari:talk" nameTag="-Himari-" text="Hey, I've written a second song for you. Do you intend to proceed?" voclip="week3/30"
+@dialogue pos="R" portrait="bf:hey" nameTag="-Boyfriend-" text="Yeah!" voclip="yeah"

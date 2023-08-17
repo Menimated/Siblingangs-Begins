@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				12,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				-62,
+				213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				175
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				174
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				151
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singLEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-13,
+				175
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "no",
+			"loop": false,
+			"name": "ye"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/menimated-mad",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "menimated",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		135,
+		135
+	],
+	"camera_position": [
+		50,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

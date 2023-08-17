@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				189
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "hiroko danceleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				189
+			],
+			"anim": "danceRight",
+			"fps": 23,
+			"name": "hiroko danceright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				161
+			],
+			"anim": "singDOWN",
+			"fps": 23,
+			"name": "hiroko down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				236
+			],
+			"anim": "singUP",
+			"fps": 23,
+			"name": "hiroko up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				167
+			],
+			"anim": "hey",
+			"fps": 23,
+			"name": "hiroko hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				58,
+				172
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "hiroko right"
+		},
+		{
+			"offsets": [
+				-36,
+				190
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "hiroko left"
+		},
+		{
+			"offsets": [
+				-36,
+				190
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "missleft"
+		},
+		{
+			"offsets": [
+				58,
+				172
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "missright"
+		},
+		{
+			"offsets": [
+				3,
+				161
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "missdown"
+		},
+		{
+			"offsets": [
+				4,
+				236
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "missup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hiroko",
+	"position": [
+		80,
+		370
+	],
+	"healthicon": "hiroko",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		120,
+		135
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

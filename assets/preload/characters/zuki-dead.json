@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				8
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "dead",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-11,
+				-2
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-2
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "alive",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/zuki-assets",
+	"position": [
+		110,
+		120
+	],
+	"healthicon": "zuki",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

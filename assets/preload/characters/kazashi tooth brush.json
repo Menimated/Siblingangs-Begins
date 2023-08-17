@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				230
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "stand"
+		},
+		{
+			"offsets": [
+				7,
+				227
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "brush left"
+		},
+		{
+			"offsets": [
+				-16,
+				232
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "brush right"
+		},
+		{
+			"offsets": [
+				-4,
+				230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "brush down"
+		},
+		{
+			"offsets": [
+				-4,
+				233
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "brush up"
+		},
+		{
+			"offsets": [
+				-6,
+				230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "shine"
+		},
+		{
+			"offsets": [
+				-6,
+				230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ready",
+			"indices": [],
+			"name": "start"
+		},
+		{
+			"offsets": [
+				-6,
+				232
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "drink",
+			"indices": [],
+			"name": "drink"
+		},
+		{
+			"offsets": [
+				-6,
+				212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "spit",
+			"indices": [],
+			"name": "puew"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				227
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				231
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				230
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				233
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "prespit",
+			"loop": true,
+			"name": "spit1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kazashibrushteeth",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "kazashi",
+	"flip_x": true,
+	"healthbar_colors": [
+		220,
+		140,
+		220
+	],
+	"camera_position": [
+		-40,
+		-360
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

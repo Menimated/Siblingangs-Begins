@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="0" y="0" width="765" height="828"/>
+	<SubTexture name="confused0000" x="765" y="0" width="785" height="842"/>
+	<SubTexture name="hey0000" x="1550" y="0" width="820" height="853"/>
+	<SubTexture name="pissed0000" x="2370" y="0" width="754" height="842"/>
+	<SubTexture name="shock0000" x="3124" y="0" width="789" height="805"/>
+	<SubTexture name="sing0000" x="0" y="853" width="921" height="911"/>
+	<SubTexture name="sing0001" x="921" y="853" width="921" height="911"/>
+	<SubTexture name="sing0002" x="1842" y="853" width="921" height="911"/>
+	<SubTexture name="sing0003" x="2763" y="853" width="921" height="911"/>
+	<SubTexture name="talk0000" x="0" y="1764" width="788" height="854"/>
+	<SubTexture name="what0000" x="788" y="1764" width="732" height="889"/>
+</TextureAtlas>

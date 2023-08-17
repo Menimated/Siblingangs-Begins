@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-62,
+				175
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "phantasm idle"
+		},
+		{
+			"offsets": [
+				-105,
+				209
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "phantasm left"
+		},
+		{
+			"offsets": [
+				-78,
+				203
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "phantasm right"
+		},
+		{
+			"offsets": [
+				-43,
+				162
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "phantasm down"
+		},
+		{
+			"offsets": [
+				-103,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "phantasm up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Meni phantasm",
+	"position": [
+		-80,
+		280
+	],
+	"healthicon": "menimated",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		135,
+		135
+	],
+	"camera_position": [
+		-180,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

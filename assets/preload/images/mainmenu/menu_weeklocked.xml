@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_weeklocked.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="week2 basic0000" x="20" y="20" width="376" height="739"/>
+	<SubTexture name="week2 white0000" x="416" y="20" width="368" height="731"/>
+</TextureAtlas>

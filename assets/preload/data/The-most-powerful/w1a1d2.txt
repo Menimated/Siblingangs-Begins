@@ -1,0 +1,6 @@
+@bgChange src="dialogue/finalpart/bg2" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="R" portrait="hinata:angry" nameTag="-Hinata-" text="Stop! You're causing a lot of trouble!" voclip="week4/32"
+@dialogue pos="L" portrait="harukiu:talk" nameTag="-Haruki-" text="Not until I'll finish this!" voclip="week4/33"
+@dialogue pos="R" portrait="bf:angry" nameTag="-Boyfriend-" text="Bap beep boop!" voclip="bf/voice1"
+@dialogue pos="L" portrait="harukiu:talk" nameTag="-Haruki-" text="Oh, really? I'll show how to stop just like you." voclip="week4/34"
+@dialogue pos="R" portrait="bf:angry" nameTag="-Boyfriend-" text="!?" voclip="bf/voice3"

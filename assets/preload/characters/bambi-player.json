@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-147,
+				-460
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bambi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-159,
+				-480
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bambi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				-446
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bambi up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-157,
+				-456
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bambi left"
+		},
+		{
+			"offsets": [
+				-90,
+				-450
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bambi right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-330
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "bambi smash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-330
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "bambi smash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-330
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "bambi smash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-330
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "bambi smash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-157,
+				-450
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-450
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-159,
+				-480
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				-446
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-88,
+				-430
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "dead",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-124,
+				-444
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-124,
+				-410
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "alive",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-140,
+				-475
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "bambi hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bambi",
+	"position": [
+		-70,
+		-80
+	],
+	"healthicon": "bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		185,
+		0
+	],
+	"camera_position": [
+		0,
+		460
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,4 @@
+@bgChange src="dialogue/ask/1" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="hinata" nameTag="" text="Okay, Onii-chan. I'll give you the codes for it here." voclip="asking/1"
+@dialogue pos="L" portrait="hinata" nameTag="" text="You can access the secret code in the Freeplay mode to unlock everything." voclip="asking/2"
+@dialogue pos="L" portrait="hinata" nameTag="" text="Good luck!" voclip="asking/3"

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hinata right"
+		},
+		{
+			"offsets": [
+				-7,
+				281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hinata left"
+		},
+		{
+			"offsets": [
+				-7,
+				280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hinata down"
+		},
+		{
+			"offsets": [
+				-7,
+				280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hinata up"
+		},
+		{
+			"offsets": [
+				-34,
+				253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hinata idle"
+		},
+		{
+			"offsets": [
+				-91,
+				247
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "boo",
+			"loop": false,
+			"name": "jumpscare"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hinata blackout",
+	"position": [
+		-20,
+		390
+	],
+	"healthicon": "nothing",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		50,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

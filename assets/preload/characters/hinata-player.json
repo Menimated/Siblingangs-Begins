@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				232
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hinata down"
+		},
+		{
+			"offsets": [
+				-29,
+				287
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hinata up"
+		},
+		{
+			"offsets": [
+				-34,
+				253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hinata idle"
+		},
+		{
+			"offsets": [
+				-111,
+				255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hinata left"
+		},
+		{
+			"offsets": [
+				-8,
+				253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hinata right"
+		},
+		{
+			"offsets": [
+				-8,
+				253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missright"
+		},
+		{
+			"offsets": [
+				-111,
+				255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missleft"
+		},
+		{
+			"offsets": [
+				-10,
+				232
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown"
+		},
+		{
+			"offsets": [
+				-29,
+				287
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missup"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				258
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hinata hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				270
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "dead",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				260
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "alive",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-23,
+				260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hinata but player",
+	"position": [
+		10,
+		390
+	],
+	"healthicon": "hinata",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		200,
+		0
+	],
+	"camera_position": [
+		50,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

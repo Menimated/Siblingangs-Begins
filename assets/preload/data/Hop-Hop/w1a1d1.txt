@@ -1,0 +1,7 @@
+@bgChange src="dialogue/part1/bg" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="Wow, I can't believe I did that just now!" voclip="week1/17"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Beep bap boop!" voclip="bf/voice5"
+@dialogue pos="L" portrait="kazashi:talk" nameTag="-Kazashi-" text="I appreciate being a good vocalist for you!" voclip="week1/18"
+@dialogue pos="L" portrait="kazashi:talk" nameTag="-???-" text="Do I just heard a vocalist?" voclip="week1/19"
+@dialogue pos="R" portrait="bf:confused" nameTag="-Boyfriend-" text="What" voclip="bf/voice3"
+@dialogue pos="L" portrait="kazashi:think" nameTag="-Kazashi-" text="Huh?" voclip="week1/20"

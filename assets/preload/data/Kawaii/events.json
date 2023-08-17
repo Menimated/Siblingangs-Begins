@@ -1,0 +1,64 @@
+{
+	"song": {
+		"speed": 1.7,
+		"stage": "home",
+		"player1": "bf",
+		"player2": "kazashi",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Goodbye Hud",
+						"0",
+						"5"
+					]
+				]
+			],
+			[
+				83.3333333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						"20"
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.1"
+					]
+				]
+			],
+			[
+				21333.3333333333,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						"1"
+					],
+					[
+						"Goodbye Hud",
+						"1",
+						"0.1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-zuki",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Kawaii"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "remasteredzuki",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "Himari, It's a good thing you're here!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "himari",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I frightened him away so he wouldn't hurt you anymore."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfnew",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now that's what he deserved."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "himari",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, I'm just here to have a rap fight with you. Would you like some?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfnew",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Sure thing, LETS GOOOO"
+		}
+	]
+}

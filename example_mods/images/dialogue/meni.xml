@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="meni.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="0" y="0" width="608" height="1023"/>
+	<SubTexture name="confused0000" x="608" y="0" width="608" height="1023"/>
+	<SubTexture name="mad0000" x="1216" y="0" width="608" height="1023"/>
+	<SubTexture name="sad0000" x="1824" y="0" width="703" height="993"/>
+	<SubTexture name="shock0000" x="2527" y="0" width="608" height="1023"/>
+	<SubTexture name="talk0000" x="3135" y="0" width="608" height="1023"/>
+	<SubTexture name="tired0000" x="0" y="1023" width="642" height="989"/>
+	<SubTexture name="transform0000" x="642" y="1023" width="756" height="915"/>
+	<SubTexture name="transform20000" x="1398" y="1023" width="984" height="1082"/>
+</TextureAtlas>

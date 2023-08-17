@@ -1,0 +1,6 @@
+@bgChange src="dialogue/meni/bg" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="meni:talk" nameTag="-Meni-" text="I'll take my time since I need to rest." voclip="weekMeni/14"
+@dialogue pos="L" portrait="meni:talk" nameTag="-Meni-" text="Hinata, your turn" voclip="weekMeni/15"
+@dialogue pos="L" portrait="hinata:happy" nameTag="-Hinata-" text="It looks like I'm ready!" voclip="weekMeni/16"
+@dialogue pos="L" portrait="hinata:talk" nameTag="-Hinata-" text="Hey, check out my brand-new song! Do you wish to try any?" voclip="weekMeni/17"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Bap!" voclip="bf/voice8"

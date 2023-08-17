@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				187
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "haruki idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				198
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "haruki left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				209
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "haruki right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				168
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "haruki down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				219
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "haruki up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/haruki-phantasm",
+	"position": [
+		-100,
+		290
+	],
+	"healthicon": "haruki",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		-160,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RemasteredMenimated_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="20" y="20" width="274" height="548"/>
+	<SubTexture name="confused0000" x="314" y="20" width="274" height="548"/>
+	<SubTexture name="talk0000" x="608" y="20" width="274" height="548"/>
+</TextureAtlas>

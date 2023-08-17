@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "angry idle"
+		},
+		{
+			"offsets": [
+				0,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "angry idle"
+		},
+		{
+			"offsets": [
+				15,
+				223
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "angry left"
+		},
+		{
+			"offsets": [
+				-51,
+				226
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "angry right"
+		},
+		{
+			"offsets": [
+				8,
+				189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "angry down"
+		},
+		{
+			"offsets": [
+				-8,
+				238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "angry up"
+		},
+		{
+			"offsets": [
+				0,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "what",
+			"indices": [],
+			"name": "shock"
+		},
+		{
+			"offsets": [
+				-5,
+				220
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "fear idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zuki angry",
+	"position": [
+		30,
+		420
+	],
+	"healthicon": "zuki&kazashi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

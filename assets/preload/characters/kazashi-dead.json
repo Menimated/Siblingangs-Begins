@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "dead"
+		},
+		{
+			"offsets": [
+				24,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "alive"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-26,
+				17
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kazashi-assets",
+	"position": [
+		40,
+		180
+	],
+	"healthicon": "kazashi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		255
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

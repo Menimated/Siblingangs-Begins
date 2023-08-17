@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mad0000" x="0" y="0" width="843" height="918"/>
+	<SubTexture name="talk0000" x="843" y="0" width="855" height="918"/>
+</TextureAtlas>

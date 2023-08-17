@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfnew",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow, this is a fantastic song!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "himari",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thank you!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfnew",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anytime."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "remasteredzuki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, Himari. What songs do you have?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "himari",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll show you later until rematch."
+		}
+	]
+}

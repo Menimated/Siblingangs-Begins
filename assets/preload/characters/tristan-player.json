@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				253
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tristan idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				233
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tristan  down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				269
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tristan  up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-12,
+				253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tristan right"
+		},
+		{
+			"offsets": [
+				-31,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tristan left"
+		},
+		{
+			"offsets": [
+				-35,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missleft"
+		},
+		{
+			"offsets": [
+				-15,
+				234
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown"
+		},
+		{
+			"offsets": [
+				-36,
+				269
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missup"
+		},
+		{
+			"offsets": [
+				-8,
+				254
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missright"
+		},
+		{
+			"offsets": [
+				-35,
+				254
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "tristan hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tristan-playable",
+	"position": [
+		60,
+		450
+	],
+	"healthicon": "tristan-player",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		0,
+		0
+	],
+	"camera_position": [
+		80,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

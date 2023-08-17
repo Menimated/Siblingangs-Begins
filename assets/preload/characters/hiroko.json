@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "hiroko danceleft"
+		},
+		{
+			"offsets": [
+				-10,
+				189
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "hiroko danceright"
+		},
+		{
+			"offsets": [
+				-77,
+				170
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "hiroko right"
+		},
+		{
+			"offsets": [
+				8,
+				192
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "hiroko left"
+		},
+		{
+			"offsets": [
+				-20,
+				160
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "hiroko down"
+		},
+		{
+			"offsets": [
+				14,
+				236
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singUP",
+			"loop": false,
+			"name": "hiroko up"
+		},
+		{
+			"offsets": [
+				-32,
+				167
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "hey",
+			"loop": false,
+			"name": "hiroko hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hiroko",
+	"position": [
+		10,
+		360
+	],
+	"healthicon": "hiroko",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		120,
+		135
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

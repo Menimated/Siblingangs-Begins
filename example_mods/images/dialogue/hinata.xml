@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hinata.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="0" y="0" width="763" height="1094"/>
+	<SubTexture name="happy0000" x="763" y="0" width="778" height="1094"/>
+	<SubTexture name="mad0000" x="1541" y="0" width="763" height="1094"/>
+	<SubTexture name="sad0000" x="2304" y="0" width="763" height="1094"/>
+	<SubTexture name="shock0000" x="3067" y="0" width="782" height="1093"/>
+	<SubTexture name="talk0000" x="0" y="1094" width="763" height="1094"/>
+</TextureAtlas>

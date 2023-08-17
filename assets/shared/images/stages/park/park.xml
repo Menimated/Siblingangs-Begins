@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="park.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="heh0000" x="20" y="20" width="363" height="401" frameX="0" frameY="-5" frameWidth="368" frameHeight="406"/>
+	<SubTexture name="heh0001" x="20" y="20" width="363" height="401" frameX="0" frameY="-5" frameWidth="368" frameHeight="406"/>
+	<SubTexture name="heh0002" x="403" y="20" width="365" height="405" frameX="-2" frameY="-1" frameWidth="368" frameHeight="406"/>
+	<SubTexture name="heh0003" x="403" y="20" width="365" height="405" frameX="-2" frameY="-1" frameWidth="368" frameHeight="406"/>
+	<SubTexture name="heh0004" x="20" y="445" width="366" height="406" frameX="-2" frameY="0" frameWidth="368" frameHeight="406"/>
+	<SubTexture name="heh0005" x="20" y="445" width="366" height="406" frameX="-2" frameY="0" frameWidth="368" frameHeight="406"/>
+	<SubTexture name="heh0006" x="406" y="445" width="365" height="406" frameX="-3" frameY="0" frameWidth="368" frameHeight="406"/>
+	<SubTexture name="heh0007" x="406" y="445" width="365" height="406" frameX="-3" frameY="0" frameWidth="368" frameHeight="406"/>
+	<SubTexture name="heh0008" x="20" y="871" width="365" height="406" frameX="-3" frameY="0" frameWidth="368" frameHeight="406"/>
+	<SubTexture name="heh0009" x="20" y="871" width="365" height="406" frameX="-3" frameY="0" frameWidth="368" frameHeight="406"/>
+	<SubTexture name="heh0010" x="20" y="871" width="365" height="406" frameX="-3" frameY="0" frameWidth="368" frameHeight="406"/>
+	<SubTexture name="heh0011" x="20" y="871" width="365" height="406" frameX="-3" frameY="0" frameWidth="368" frameHeight="406"/>
+	<SubTexture name="heh0012" x="20" y="871" width="365" height="406" frameX="-3" frameY="0" frameWidth="368" frameHeight="406"/>
+	<SubTexture name="heh0013" x="20" y="871" width="365" height="406" frameX="-3" frameY="0" frameWidth="368" frameHeight="406"/>
+</TextureAtlas>

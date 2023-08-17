@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-216
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "smol idle"
+		},
+		{
+			"offsets": [
+				-1,
+				-228
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "smol left"
+		},
+		{
+			"offsets": [
+				-42,
+				-221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "smol right"
+		},
+		{
+			"offsets": [
+				-10,
+				-300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "smol down"
+		},
+		{
+			"offsets": [
+				68,
+				-188
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "smol up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/smolshiPixel",
+	"position": [
+		10,
+		0
+	],
+	"healthicon": "smolshi-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		142,
+		255
+	],
+	"camera_position": [
+		40,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

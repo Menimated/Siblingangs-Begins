@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hinata_scared.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hinata scared0000" x="0" y="0" width="335" height="590"/>
+	<SubTexture name="hinata scared0001" x="0" y="0" width="335" height="590"/>
+	<SubTexture name="hinata scared0002" x="335" y="0" width="335" height="590"/>
+	<SubTexture name="hinata scared0003" x="335" y="0" width="335" height="590"/>
+	<SubTexture name="hinata scared0004" x="670" y="0" width="335" height="590"/>
+	<SubTexture name="hinata scared0005" x="670" y="0" width="335" height="590"/>
+	<SubTexture name="hinata scared0006" x="1005" y="0" width="335" height="590"/>
+	<SubTexture name="hinata scared0007" x="1005" y="0" width="335" height="590"/>
+	<SubTexture name="hinata scared0008" x="1340" y="0" width="335" height="590"/>
+	<SubTexture name="hinata scared0009" x="1340" y="0" width="335" height="590"/>
+	<SubTexture name="hinata scared0010" x="1340" y="0" width="335" height="590"/>
+	<SubTexture name="hinata scared0011" x="1340" y="0" width="335" height="590"/>
+	<SubTexture name="hinata scared0012" x="1340" y="0" width="335" height="590"/>
+	<SubTexture name="hinata scared0013" x="1340" y="0" width="335" height="590"/>
+</TextureAtlas>

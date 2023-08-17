@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				176
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				-70,
+				142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				-36,
+				201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				-47,
+				192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				-10,
+				189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "danceLeft"
+		},
+		{
+			"offsets": [
+				-1,
+				189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "danceRight"
+		},
+		{
+			"offsets": [
+				-9,
+				191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shock",
+			"indices": [],
+			"name": "ohno"
+		},
+		{
+			"offsets": [
+				-60,
+				185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "shock left"
+		},
+		{
+			"offsets": [
+				10,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "shock right"
+		},
+		{
+			"offsets": [
+				-40,
+				142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "shock down"
+		},
+		{
+			"offsets": [
+				-20,
+				182
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "shock up"
+		},
+		{
+			"offsets": [
+				-3,
+				190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "heyo"
+		},
+		{
+			"offsets": [
+				-4,
+				191
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "talk",
+			"indices": [],
+			"name": "talk"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				183
+			],
+			"anim": "best friend",
+			"fps": 23,
+			"name": "bambi friend",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kazashi-dark",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "kazashi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		255
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

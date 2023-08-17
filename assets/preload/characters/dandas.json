@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dan idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dan left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dan right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-142
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dan down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dan up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dandas",
+	"position": [
+		-350,
+		-10
+	],
+	"healthicon": "dandas",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		49,
+		49
+	],
+	"camera_position": [
+		-60,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

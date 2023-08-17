@@ -1,0 +1,7 @@
+@bgChange src="dialogue/finalpart/bg4" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="(Giggles) You guys singing along with me like this makes me so happy! It's really important to me!" voclip="weekFinale/17"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Baap!" voclip="bf/voice1"
+@dialogue pos="L" portrait="kazashi:sad" nameTag="-Kazashi-" text="Huh? Do you two have to go right now?" voclip="weekFinale/18"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="yeah" voclip="bf/voice4"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="(But we're still here)" voclip="bf/voice7"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="Aww! Thank you, guys! I hope you two visit us once again soon!" voclip="weekFinale/19"

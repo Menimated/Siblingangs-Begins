@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hinata.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alive0000" x="0" y="0" width="338" height="602"/>
+	<SubTexture name="alive0001" x="338" y="0" width="338" height="602"/>
+	<SubTexture name="alive0002" x="676" y="0" width="338" height="602"/>
+	<SubTexture name="alive0003" x="1014" y="0" width="338" height="602"/>
+	<SubTexture name="alive0004" x="1352" y="0" width="338" height="602"/>
+	<SubTexture name="alive0005" x="1690" y="0" width="338" height="602"/>
+	<SubTexture name="alive0006" x="2028" y="0" width="338" height="602"/>
+	<SubTexture name="alive0007" x="2366" y="0" width="338" height="602"/>
+	<SubTexture name="alive0008" x="2704" y="0" width="338" height="602"/>
+	<SubTexture name="alive0009" x="3042" y="0" width="338" height="602"/>
+	<SubTexture name="alive0010" x="3380" y="0" width="338" height="602"/>
+	<SubTexture name="alive0011" x="3718" y="0" width="338" height="602"/>
+	<SubTexture name="alive0012" x="4056" y="0" width="338" height="602"/>
+	<SubTexture name="alive0013" x="4394" y="0" width="338" height="602"/>
+	<SubTexture name="alive0014" x="4732" y="0" width="338" height="602"/>
+	<SubTexture name="alive0015" x="5070" y="0" width="338" height="602"/>
+	<SubTexture name="alive0016" x="5408" y="0" width="338" height="602"/>
+	<SubTexture name="alive0017" x="5746" y="0" width="338" height="602"/>
+	<SubTexture name="alive0018" x="6084" y="0" width="338" height="602"/>
+	<SubTexture name="alive0019" x="6422" y="0" width="338" height="602"/>
+	<SubTexture name="alive0020" x="6760" y="0" width="338" height="602"/>
+	<SubTexture name="alive0021" x="7098" y="0" width="338" height="602"/>
+	<SubTexture name="alive0022" x="7098" y="0" width="338" height="602"/>
+	<SubTexture name="alive0023" x="7436" y="0" width="338" height="602"/>
+	<SubTexture name="alive0024" x="7436" y="0" width="338" height="602"/>
+	<SubTexture name="alive0025" x="7436" y="0" width="338" height="602"/>
+	<SubTexture name="alive0026" x="7436" y="0" width="338" height="602"/>
+	<SubTexture name="alive0027" x="7436" y="0" width="338" height="602"/>
+	<SubTexture name="alive0028" x="7436" y="0" width="338" height="602"/>
+	<SubTexture name="alive0029" x="7436" y="0" width="338" height="602"/>
+	<SubTexture name="alive0030" x="7436" y="0" width="338" height="602"/>
+	<SubTexture name="alive0031" x="7436" y="0" width="338" height="602"/>
+	<SubTexture name="alive0032" x="7436" y="0" width="338" height="602"/>
+	<SubTexture name="alive0033" x="7436" y="0" width="338" height="602"/>
+	<SubTexture name="dead0000" x="7774" y="0" width="391" height="616"/>
+	<SubTexture name="dead0001" x="0" y="616" width="391" height="616"/>
+	<SubTexture name="dead0002" x="391" y="616" width="391" height="616"/>
+	<SubTexture name="dead0003" x="782" y="616" width="391" height="616"/>
+	<SubTexture name="dead0004" x="782" y="616" width="391" height="616"/>
+	<SubTexture name="dead0005" x="1173" y="616" width="391" height="616"/>
+	<SubTexture name="dead0006" x="1564" y="616" width="391" height="616"/>
+	<SubTexture name="dead0007" x="1564" y="616" width="391" height="616"/>
+	<SubTexture name="dead0008" x="1564" y="616" width="391" height="616"/>
+	<SubTexture name="dead0009" x="1564" y="616" width="391" height="616"/>
+	<SubTexture name="dead0010" x="1564" y="616" width="391" height="616"/>
+	<SubTexture name="dead0011" x="1564" y="616" width="391" height="616"/>
+	<SubTexture name="dead0012" x="1564" y="616" width="391" height="616"/>
+	<SubTexture name="dead0013" x="1564" y="616" width="391" height="616"/>
+	<SubTexture name="dead0014" x="1564" y="616" width="391" height="616"/>
+	<SubTexture name="dead0015" x="1564" y="616" width="391" height="616"/>
+	<SubTexture name="dead0016" x="1564" y="616" width="391" height="616"/>
+	<SubTexture name="dead0017" x="1955" y="616" width="391" height="616"/>
+	<SubTexture name="dead0018" x="1955" y="616" width="391" height="616"/>
+	<SubTexture name="dead0019" x="2346" y="616" width="391" height="616"/>
+	<SubTexture name="dead0020" x="2346" y="616" width="391" height="616"/>
+	<SubTexture name="dead0021" x="2737" y="616" width="391" height="616"/>
+	<SubTexture name="dead0022" x="2737" y="616" width="391" height="616"/>
+	<SubTexture name="dead0023" x="3128" y="616" width="391" height="616"/>
+	<SubTexture name="dead0024" x="3128" y="616" width="391" height="616"/>
+	<SubTexture name="dead0025" x="3519" y="616" width="391" height="616"/>
+	<SubTexture name="dead0026" x="3519" y="616" width="391" height="616"/>
+	<SubTexture name="dead0027" x="3910" y="616" width="391" height="616"/>
+	<SubTexture name="dead0028" x="3910" y="616" width="391" height="616"/>
+	<SubTexture name="dead0029" x="4301" y="616" width="391" height="616"/>
+	<SubTexture name="dead0030" x="4301" y="616" width="391" height="616"/>
+	<SubTexture name="dead0031" x="4301" y="616" width="391" height="616"/>
+	<SubTexture name="dead0032" x="4301" y="616" width="391" height="616"/>
+	<SubTexture name="dead0033" x="4692" y="616" width="391" height="616"/>
+	<SubTexture name="dead0034" x="5083" y="616" width="391" height="616"/>
+	<SubTexture name="dead0035" x="5474" y="616" width="391" height="616"/>
+	<SubTexture name="dead0036" x="5865" y="616" width="391" height="616"/>
+	<SubTexture name="dead0037" x="6256" y="616" width="391" height="616"/>
+	<SubTexture name="dead0038" x="6647" y="616" width="391" height="616"/>
+	<SubTexture name="dead0039" x="7038" y="616" width="391" height="616"/>
+	<SubTexture name="dead0040" x="6647" y="616" width="391" height="616"/>
+	<SubTexture name="dead0041" x="7429" y="616" width="391" height="616"/>
+	<SubTexture name="dead0042" x="0" y="1232" width="391" height="616"/>
+	<SubTexture name="dead0043" x="7429" y="616" width="391" height="616"/>
+	<SubTexture name="dead0044" x="391" y="1232" width="391" height="616"/>
+	<SubTexture name="dead0045" x="782" y="1232" width="391" height="616"/>
+	<SubTexture name="dead0046" x="1173" y="1232" width="391" height="616"/>
+	<SubTexture name="dead0047" x="1173" y="1232" width="391" height="616"/>
+	<SubTexture name="dead0048" x="1173" y="1232" width="391" height="616"/>
+	<SubTexture name="dead0049" x="1173" y="1232" width="391" height="616"/>
+	<SubTexture name="dead0050" x="1173" y="1232" width="391" height="616"/>
+	<SubTexture name="dead0051" x="1173" y="1232" width="391" height="616"/>
+	<SubTexture name="dead0052" x="1173" y="1232" width="391" height="616"/>
+	<SubTexture name="dead0053" x="1173" y="1232" width="391" height="616"/>
+	<SubTexture name="dead0054" x="1173" y="1232" width="391" height="616"/>
+	<SubTexture name="dead0055" x="1173" y="1232" width="391" height="616"/>
+	<SubTexture name="dead0056" x="1173" y="1232" width="391" height="616"/>
+	<SubTexture name="dead0057" x="1173" y="1232" width="391" height="616"/>
+	<SubTexture name="hinata down0000" x="3254" y="1232" width="347" height="561"/>
+	<SubTexture name="hinata down0001" x="3254" y="1232" width="347" height="561"/>
+	<SubTexture name="hinata down0002" x="3601" y="1232" width="347" height="561"/>
+	<SubTexture name="hinata down0003" x="3601" y="1232" width="347" height="561"/>
+	<SubTexture name="hinata down0004" x="3601" y="1232" width="347" height="561"/>
+	<SubTexture name="hinata down0005" x="3601" y="1232" width="347" height="561"/>
+	<SubTexture name="hinata down0006" x="3601" y="1232" width="347" height="561"/>
+	<SubTexture name="hinata down0007" x="3601" y="1232" width="347" height="561"/>
+	<SubTexture name="hinata down0008" x="3601" y="1232" width="347" height="561"/>
+	<SubTexture name="hinata down0009" x="3601" y="1232" width="347" height="561"/>
+	<SubTexture name="hinata down0010" x="3601" y="1232" width="347" height="561"/>
+	<SubTexture name="hinata down0011" x="3601" y="1232" width="347" height="561"/>
+	<SubTexture name="hinata down0012" x="3601" y="1232" width="347" height="561"/>
+	<SubTexture name="hinata down0013" x="3601" y="1232" width="347" height="561"/>
+	<SubTexture name="hinata hey0000" x="3948" y="1232" width="379" height="584"/>
+	<SubTexture name="hinata hey0001" x="3948" y="1232" width="379" height="584"/>
+	<SubTexture name="hinata hey0002" x="4327" y="1232" width="379" height="584"/>
+	<SubTexture name="hinata hey0003" x="4327" y="1232" width="379" height="584"/>
+	<SubTexture name="hinata hey0004" x="4327" y="1232" width="379" height="584"/>
+	<SubTexture name="hinata hey0005" x="4327" y="1232" width="379" height="584"/>
+	<SubTexture name="hinata hey0006" x="4327" y="1232" width="379" height="584"/>
+	<SubTexture name="hinata hey0007" x="4327" y="1232" width="379" height="584"/>
+	<SubTexture name="hinata hey0008" x="4327" y="1232" width="379" height="584"/>
+	<SubTexture name="hinata hey0009" x="4327" y="1232" width="379" height="584"/>
+	<SubTexture name="hinata hey0010" x="4327" y="1232" width="379" height="584"/>
+	<SubTexture name="hinata hey0011" x="4327" y="1232" width="379" height="584"/>
+	<SubTexture name="hinata hey0012" x="4327" y="1232" width="379" height="584"/>
+	<SubTexture name="hinata hey0013" x="4327" y="1232" width="379" height="584"/>
+	<SubTexture name="hinata idle0000" x="4706" y="1232" width="346" height="579"/>
+	<SubTexture name="hinata idle0001" x="4706" y="1232" width="346" height="579"/>
+	<SubTexture name="hinata idle0002" x="5052" y="1232" width="346" height="579"/>
+	<SubTexture name="hinata idle0003" x="5052" y="1232" width="346" height="579"/>
+	<SubTexture name="hinata idle0004" x="5398" y="1232" width="346" height="579"/>
+	<SubTexture name="hinata idle0005" x="5398" y="1232" width="346" height="579"/>
+	<SubTexture name="hinata idle0006" x="5744" y="1232" width="346" height="579"/>
+	<SubTexture name="hinata idle0007" x="5744" y="1232" width="346" height="579"/>
+	<SubTexture name="hinata idle0008" x="6090" y="1232" width="346" height="579"/>
+	<SubTexture name="hinata idle0009" x="6090" y="1232" width="346" height="579"/>
+	<SubTexture name="hinata idle0010" x="6090" y="1232" width="346" height="579"/>
+	<SubTexture name="hinata idle0011" x="6090" y="1232" width="346" height="579"/>
+	<SubTexture name="hinata idle0012" x="6090" y="1232" width="346" height="579"/>
+	<SubTexture name="hinata idle0013" x="6090" y="1232" width="346" height="579"/>
+	<SubTexture name="hinata left0000" x="6436" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata left0001" x="6436" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata left0002" x="6843" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata left0003" x="6843" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata left0004" x="6843" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata left0005" x="6843" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata left0006" x="6843" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata left0007" x="6843" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata left0008" x="6843" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata left0009" x="6843" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata left0010" x="6843" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata left0011" x="6843" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata left0012" x="6843" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata left0013" x="6843" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata left0014" x="6843" y="1232" width="407" height="581"/>
+	<SubTexture name="hinata mic0000" x="7250" y="1232" width="354" height="583"/>
+	<SubTexture name="hinata mic0001" x="7604" y="1232" width="354" height="583"/>
+	<SubTexture name="hinata mic0002" x="7604" y="1232" width="354" height="583"/>
+	<SubTexture name="hinata mic0003" x="0" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0004" x="0" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0005" x="354" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0006" x="354" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0007" x="708" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0008" x="708" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0009" x="708" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0010" x="708" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0011" x="708" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0012" x="708" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0013" x="708" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0014" x="708" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0015" x="708" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0016" x="708" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0017" x="708" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0018" x="1062" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0019" x="1062" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0020" x="1416" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0021" x="1416" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0022" x="1770" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0023" x="1770" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0024" x="1770" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0025" x="1770" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0026" x="1770" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0027" x="1770" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0028" x="1770" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0029" x="1770" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0030" x="1770" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0031" x="1770" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0032" x="1770" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0033" x="1770" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata mic0034" x="1770" y="1848" width="354" height="583"/>
+	<SubTexture name="hinata right0000" x="2124" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata right0001" x="2124" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata right0002" x="2472" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata right0003" x="2472" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata right0004" x="2472" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata right0005" x="2472" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata right0006" x="2472" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata right0007" x="2472" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata right0008" x="2472" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata right0009" x="2472" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata right0010" x="2472" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata right0011" x="2472" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata right0012" x="2472" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata right0013" x="2472" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata right0014" x="2472" y="1848" width="348" height="579"/>
+	<SubTexture name="hinata sleep0000" x="2820" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0001" x="2820" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0002" x="3204" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0003" x="3204" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0004" x="3588" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0005" x="3588" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0006" x="3972" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0007" x="3972" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0008" x="4356" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0009" x="4356" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0010" x="4740" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0011" x="4740" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0012" x="5124" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0013" x="5124" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0014" x="5508" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0015" x="5508" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0016" x="5892" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0017" x="6276" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0018" x="6276" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0019" x="5508" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0020" x="5508" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0021" x="6660" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0022" x="6660" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0023" x="7044" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0024" x="7044" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0025" x="7428" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0026" x="7428" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0027" x="0" y="2434" width="384" height="586"/>
+	<SubTexture name="hinata sleep0028" x="0" y="2434" width="384" height="586"/>
+	<SubTexture name="hinata sleep0029" x="384" y="2434" width="384" height="586"/>
+	<SubTexture name="hinata sleep0030" x="384" y="2434" width="384" height="586"/>
+	<SubTexture name="hinata sleep0031" x="768" y="2434" width="384" height="586"/>
+	<SubTexture name="hinata sleep0032" x="768" y="2434" width="384" height="586"/>
+	<SubTexture name="hinata sleep0033" x="3204" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata sleep0034" x="2820" y="1848" width="384" height="586"/>
+	<SubTexture name="hinata tired0000" x="1152" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0001" x="1152" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0002" x="1537" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0003" x="1537" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0004" x="1922" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0005" x="1922" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0006" x="2307" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0007" x="2307" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0008" x="2692" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0009" x="2692" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0010" x="3077" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0011" x="3077" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0012" x="3462" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0013" x="3462" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0014" x="3847" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0015" x="3847" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0016" x="4232" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0017" x="4232" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0018" x="4617" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0019" x="4617" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0020" x="5002" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0021" x="5002" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0022" x="5387" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0023" x="5387" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0024" x="5772" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0025" x="5772" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0026" x="6157" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0027" x="6157" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0028" x="6157" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0029" x="6157" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0030" x="6157" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0031" x="6157" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0032" x="6157" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0033" x="6542" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0034" x="6542" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0035" x="6542" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0036" x="6927" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0037" x="6927" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0038" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0039" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0040" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0041" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0042" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0043" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0044" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0045" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0046" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0047" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0048" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0049" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0050" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0051" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0052" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0053" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata tired0054" x="7312" y="2434" width="385" height="583"/>
+	<SubTexture name="hinata up0000" x="7697" y="2434" width="338" height="612"/>
+	<SubTexture name="hinata up0001" x="7697" y="2434" width="338" height="612"/>
+	<SubTexture name="hinata up0002" x="0" y="3046" width="338" height="612"/>
+	<SubTexture name="hinata up0003" x="0" y="3046" width="338" height="612"/>
+	<SubTexture name="hinata up0004" x="0" y="3046" width="338" height="612"/>
+	<SubTexture name="hinata up0005" x="0" y="3046" width="338" height="612"/>
+	<SubTexture name="hinata up0006" x="0" y="3046" width="338" height="612"/>
+	<SubTexture name="hinata up0007" x="0" y="3046" width="338" height="612"/>
+	<SubTexture name="hinata up0008" x="0" y="3046" width="338" height="612"/>
+	<SubTexture name="hinata up0009" x="0" y="3046" width="338" height="612"/>
+	<SubTexture name="hinata up0010" x="0" y="3046" width="338" height="612"/>
+	<SubTexture name="hinata up0011" x="0" y="3046" width="338" height="612"/>
+	<SubTexture name="hinata up0012" x="0" y="3046" width="338" height="612"/>
+	<SubTexture name="hinata up0013" x="0" y="3046" width="338" height="612"/>
+	<SubTexture name="hinata up0014" x="0" y="3046" width="338" height="612"/>
+	<SubTexture name="hinata wakeup0000" x="338" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0001" x="338" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0002" x="728" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0003" x="728" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0004" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0005" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0006" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0007" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0008" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0009" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0010" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0011" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0012" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0013" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0014" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0015" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0016" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0017" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0018" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0019" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0020" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0021" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0022" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0023" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0024" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0025" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0026" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0027" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0028" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0029" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0030" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0031" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0032" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0033" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0034" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0035" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="hinata wakeup0036" x="1118" y="3046" width="390" height="583"/>
+	<SubTexture name="loop0000" x="1564" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0001" x="1902" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0002" x="1902" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0003" x="2240" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0004" x="2240" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0005" x="2578" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0006" x="2578" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0007" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0008" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0009" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0010" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0011" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0012" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0013" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0014" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0015" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0016" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0017" x="1564" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0018" x="1902" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0019" x="1902" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0020" x="2240" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0021" x="2240" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0022" x="2578" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0023" x="2578" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0024" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0025" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0026" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0027" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0028" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0029" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0030" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0031" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0032" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="loop0033" x="2916" y="1232" width="338" height="602"/>
+	<SubTexture name="missdown0000" x="1508" y="3046" width="348" height="566"/>
+	<SubTexture name="missdown0001" x="1508" y="3046" width="348" height="566"/>
+	<SubTexture name="missdown0002" x="1856" y="3046" width="348" height="566"/>
+	<SubTexture name="missdown0003" x="1856" y="3046" width="348" height="566"/>
+	<SubTexture name="missdown0004" x="1856" y="3046" width="348" height="566"/>
+	<SubTexture name="missdown0005" x="1856" y="3046" width="348" height="566"/>
+	<SubTexture name="missdown0006" x="1856" y="3046" width="348" height="566"/>
+	<SubTexture name="missdown0007" x="1856" y="3046" width="348" height="566"/>
+	<SubTexture name="missdown0008" x="1856" y="3046" width="348" height="566"/>
+	<SubTexture name="missdown0009" x="1856" y="3046" width="348" height="566"/>
+	<SubTexture name="missdown0010" x="1856" y="3046" width="348" height="566"/>
+	<SubTexture name="missdown0011" x="1856" y="3046" width="348" height="566"/>
+	<SubTexture name="missdown0012" x="1856" y="3046" width="348" height="566"/>
+	<SubTexture name="missdown0013" x="1856" y="3046" width="348" height="566"/>
+	<SubTexture name="missleft0000" x="2204" y="3046" width="411" height="585"/>
+	<SubTexture name="missleft0001" x="2204" y="3046" width="411" height="585"/>
+	<SubTexture name="missleft0002" x="2615" y="3046" width="411" height="585"/>
+	<SubTexture name="missleft0003" x="2615" y="3046" width="411" height="585"/>
+	<SubTexture name="missleft0004" x="2615" y="3046" width="411" height="585"/>
+	<SubTexture name="missleft0005" x="2615" y="3046" width="411" height="585"/>
+	<SubTexture name="missleft0006" x="2615" y="3046" width="411" height="585"/>
+	<SubTexture name="missleft0007" x="2615" y="3046" width="411" height="585"/>
+	<SubTexture name="missleft0008" x="2615" y="3046" width="411" height="585"/>
+	<SubTexture name="missleft0009" x="2615" y="3046" width="411" height="585"/>
+	<SubTexture name="missleft0010" x="2615" y="3046" width="411" height="585"/>
+	<SubTexture name="missleft0011" x="2615" y="3046" width="411" height="585"/>
+	<SubTexture name="missleft0012" x="2615" y="3046" width="411" height="585"/>
+	<SubTexture name="missleft0013" x="2615" y="3046" width="411" height="585"/>
+	<SubTexture name="missleft0014" x="2615" y="3046" width="411" height="585"/>
+	<SubTexture name="missright0000" x="3026" y="3046" width="349" height="584"/>
+	<SubTexture name="missright0001" x="3026" y="3046" width="349" height="584"/>
+	<SubTexture name="missright0002" x="3375" y="3046" width="349" height="584"/>
+	<SubTexture name="missright0003" x="3375" y="3046" width="349" height="584"/>
+	<SubTexture name="missright0004" x="3375" y="3046" width="349" height="584"/>
+	<SubTexture name="missright0005" x="3375" y="3046" width="349" height="584"/>
+	<SubTexture name="missright0006" x="3375" y="3046" width="349" height="584"/>
+	<SubTexture name="missright0007" x="3375" y="3046" width="349" height="584"/>
+	<SubTexture name="missright0008" x="3375" y="3046" width="349" height="584"/>
+	<SubTexture name="missright0009" x="3375" y="3046" width="349" height="584"/>
+	<SubTexture name="missright0010" x="3375" y="3046" width="349" height="584"/>
+	<SubTexture name="missright0011" x="3375" y="3046" width="349" height="584"/>
+	<SubTexture name="missright0012" x="3375" y="3046" width="349" height="584"/>
+	<SubTexture name="missright0013" x="3375" y="3046" width="349" height="584"/>
+	<SubTexture name="missright0014" x="3375" y="3046" width="349" height="584"/>
+	<SubTexture name="missup0000" x="3724" y="3046" width="339" height="616"/>
+	<SubTexture name="missup0001" x="3724" y="3046" width="339" height="616"/>
+	<SubTexture name="missup0002" x="4063" y="3046" width="339" height="616"/>
+	<SubTexture name="missup0003" x="4063" y="3046" width="339" height="616"/>
+	<SubTexture name="missup0004" x="4063" y="3046" width="339" height="616"/>
+	<SubTexture name="missup0005" x="4063" y="3046" width="339" height="616"/>
+	<SubTexture name="missup0006" x="4063" y="3046" width="339" height="616"/>
+	<SubTexture name="missup0007" x="4063" y="3046" width="339" height="616"/>
+	<SubTexture name="missup0008" x="4063" y="3046" width="339" height="616"/>
+	<SubTexture name="missup0009" x="4063" y="3046" width="339" height="616"/>
+	<SubTexture name="missup0010" x="4063" y="3046" width="339" height="616"/>
+	<SubTexture name="missup0011" x="4063" y="3046" width="339" height="616"/>
+	<SubTexture name="missup0012" x="4063" y="3046" width="339" height="616"/>
+	<SubTexture name="missup0013" x="4063" y="3046" width="339" height="616"/>
+	<SubTexture name="missup0014" x="4063" y="3046" width="339" height="616"/>
+</TextureAtlas>

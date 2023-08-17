@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				85,
+				9
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "dead"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "alive"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hiroko",
+	"position": [
+		80,
+		170
+	],
+	"healthicon": "hiroko",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		120,
+		135
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

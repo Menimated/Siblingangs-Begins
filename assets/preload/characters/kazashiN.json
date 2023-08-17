@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				145,
+				498
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				-16,
+				505
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				69,
+				522
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				-40,
+				503
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				38,
+				523
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nightmare_kazashi",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "kazashiN",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		40,
+		120
+	],
+	"camera_position": [
+		-30,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

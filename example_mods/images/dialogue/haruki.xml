@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="haruki.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="0" y="0" width="568" height="1028"/>
+	<SubTexture name="sad0000" x="568" y="0" width="577" height="1025"/>
+	<SubTexture name="scared0000" x="1145" y="0" width="589" height="1033"/>
+	<SubTexture name="talk0000" x="1734" y="0" width="577" height="1025"/>
+	<SubTexture name="transform0000" x="2311" y="0" width="640" height="1005"/>
+</TextureAtlas>

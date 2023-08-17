@@ -1,0 +1,2 @@
+@bgChange src="dialogue/part3/1" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="haruki" nameTag="" text="I caught you! You believe you are more famous than I am?" voclip="week3/5"

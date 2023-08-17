@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="greenblocks.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="float0000" x="20" y="20" width="1920" height="1080"/>
+	<SubTexture name="float0001" x="20" y="20" width="1920" height="1080"/>
+	<SubTexture name="float0002" x="1960" y="20" width="1920" height="1080"/>
+	<SubTexture name="float0003" x="1960" y="20" width="1920" height="1080"/>
+	<SubTexture name="float0004" x="3900" y="20" width="1920" height="1080"/>
+	<SubTexture name="float0005" x="3900" y="20" width="1920" height="1080"/>
+	<SubTexture name="float0006" x="5840" y="20" width="1920" height="1080"/>
+	<SubTexture name="float0007" x="5840" y="20" width="1920" height="1080"/>
+	<SubTexture name="float0008" x="20" y="1120" width="1920" height="1080"/>
+	<SubTexture name="float0009" x="20" y="1120" width="1920" height="1080"/>
+	<SubTexture name="float0010" x="1960" y="1120" width="1920" height="1080"/>
+	<SubTexture name="float0011" x="1960" y="1120" width="1920" height="1080"/>
+	<SubTexture name="float0012" x="3900" y="1120" width="1920" height="1080"/>
+	<SubTexture name="float0013" x="3900" y="1120" width="1920" height="1080"/>
+	<SubTexture name="float0014" x="5840" y="1120" width="1920" height="1080"/>
+	<SubTexture name="float0015" x="5840" y="1120" width="1920" height="1080"/>
+	<SubTexture name="float0016" x="20" y="2220" width="1920" height="1080"/>
+	<SubTexture name="float0017" x="20" y="2220" width="1920" height="1080"/>
+	<SubTexture name="float0018" x="1960" y="2220" width="1920" height="1080"/>
+	<SubTexture name="float0019" x="1960" y="2220" width="1920" height="1080"/>
+	<SubTexture name="float0020" x="3900" y="2220" width="1920" height="1080"/>
+	<SubTexture name="float0021" x="3900" y="2220" width="1920" height="1080"/>
+	<SubTexture name="float0022" x="5840" y="2220" width="1920" height="1080"/>
+	<SubTexture name="float0023" x="5840" y="2220" width="1920" height="1080"/>
+	<SubTexture name="float0024" x="20" y="3320" width="1920" height="1080"/>
+	<SubTexture name="float0025" x="20" y="3320" width="1920" height="1080"/>
+	<SubTexture name="float0026" x="1960" y="3320" width="1920" height="1080"/>
+	<SubTexture name="float0027" x="1960" y="3320" width="1920" height="1080"/>
+	<SubTexture name="float0028" x="3900" y="3320" width="1920" height="1080"/>
+	<SubTexture name="float0029" x="3900" y="3320" width="1920" height="1080"/>
+	<SubTexture name="float0030" x="5840" y="3320" width="1920" height="1080"/>
+	<SubTexture name="float0031" x="5840" y="3320" width="1920" height="1080"/>
+	<SubTexture name="float0032" x="20" y="4420" width="1920" height="1080"/>
+	<SubTexture name="float0033" x="20" y="4420" width="1920" height="1080"/>
+	<SubTexture name="float0034" x="1960" y="4420" width="1920" height="1080"/>
+	<SubTexture name="float0035" x="1960" y="4420" width="1920" height="1080"/>
+	<SubTexture name="float0036" x="3900" y="4420" width="1920" height="1080"/>
+	<SubTexture name="float0037" x="3900" y="4420" width="1920" height="1080"/>
+	<SubTexture name="float0038" x="5840" y="4420" width="1920" height="1080"/>
+	<SubTexture name="float0039" x="5840" y="4420" width="1920" height="1080"/>
+	<SubTexture name="float0040" x="20" y="5520" width="1920" height="1080"/>
+	<SubTexture name="float0041" x="20" y="5520" width="1920" height="1080"/>
+	<SubTexture name="float0042" x="1960" y="5520" width="1920" height="1080"/>
+	<SubTexture name="float0043" x="1960" y="5520" width="1920" height="1080"/>
+	<SubTexture name="float0044" x="3900" y="5520" width="1920" height="1080"/>
+	<SubTexture name="float0045" x="3900" y="5520" width="1920" height="1080"/>
+	<SubTexture name="float0046" x="5840" y="5520" width="1920" height="1080"/>
+	<SubTexture name="float0047" x="5840" y="5520" width="1920" height="1080"/>
+	<SubTexture name="float0048" x="20" y="6620" width="1920" height="1080"/>
+	<SubTexture name="float0049" x="20" y="6620" width="1920" height="1080"/>
+</TextureAtlas>

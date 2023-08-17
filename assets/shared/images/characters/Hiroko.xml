@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hiroko.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alive0000" x="0" y="0" width="339" height="596"/>
+	<SubTexture name="alive0001" x="339" y="0" width="339" height="596"/>
+	<SubTexture name="alive0002" x="678" y="0" width="339" height="596"/>
+	<SubTexture name="alive0003" x="1017" y="0" width="339" height="596"/>
+	<SubTexture name="alive0004" x="1356" y="0" width="339" height="596"/>
+	<SubTexture name="alive0005" x="1695" y="0" width="339" height="596"/>
+	<SubTexture name="alive0006" x="2034" y="0" width="339" height="596"/>
+	<SubTexture name="alive0007" x="2373" y="0" width="339" height="596"/>
+	<SubTexture name="alive0008" x="2712" y="0" width="339" height="596"/>
+	<SubTexture name="alive0009" x="3051" y="0" width="339" height="596"/>
+	<SubTexture name="alive0010" x="3390" y="0" width="339" height="596"/>
+	<SubTexture name="alive0011" x="3729" y="0" width="339" height="596"/>
+	<SubTexture name="alive0012" x="4068" y="0" width="339" height="596"/>
+	<SubTexture name="alive0013" x="4407" y="0" width="339" height="596"/>
+	<SubTexture name="alive0014" x="4746" y="0" width="339" height="596"/>
+	<SubTexture name="alive0015" x="5085" y="0" width="339" height="596"/>
+	<SubTexture name="alive0016" x="5424" y="0" width="339" height="596"/>
+	<SubTexture name="alive0017" x="5763" y="0" width="339" height="596"/>
+	<SubTexture name="alive0018" x="6102" y="0" width="339" height="596"/>
+	<SubTexture name="alive0019" x="6441" y="0" width="339" height="596"/>
+	<SubTexture name="alive0020" x="6780" y="0" width="339" height="596"/>
+	<SubTexture name="alive0021" x="7119" y="0" width="339" height="596"/>
+	<SubTexture name="alive0022" x="7119" y="0" width="339" height="596"/>
+	<SubTexture name="alive0023" x="7458" y="0" width="339" height="596"/>
+	<SubTexture name="alive0024" x="7458" y="0" width="339" height="596"/>
+	<SubTexture name="alive0025" x="7458" y="0" width="339" height="596"/>
+	<SubTexture name="alive0026" x="7458" y="0" width="339" height="596"/>
+	<SubTexture name="alive0027" x="7458" y="0" width="339" height="596"/>
+	<SubTexture name="alive0028" x="7458" y="0" width="339" height="596"/>
+	<SubTexture name="alive0029" x="7458" y="0" width="339" height="596"/>
+	<SubTexture name="alive0030" x="7458" y="0" width="339" height="596"/>
+	<SubTexture name="alive0031" x="7458" y="0" width="339" height="596"/>
+	<SubTexture name="alive0032" x="7458" y="0" width="339" height="596"/>
+	<SubTexture name="alive0033" x="7458" y="0" width="339" height="596"/>
+	<SubTexture name="dead0000" x="0" y="596" width="424" height="605"/>
+	<SubTexture name="dead0001" x="424" y="596" width="424" height="605"/>
+	<SubTexture name="dead0002" x="848" y="596" width="424" height="605"/>
+	<SubTexture name="dead0003" x="1272" y="596" width="424" height="605"/>
+	<SubTexture name="dead0004" x="1272" y="596" width="424" height="605"/>
+	<SubTexture name="dead0005" x="1696" y="596" width="424" height="605"/>
+	<SubTexture name="dead0006" x="1696" y="596" width="424" height="605"/>
+	<SubTexture name="dead0007" x="2120" y="596" width="424" height="605"/>
+	<SubTexture name="dead0008" x="2120" y="596" width="424" height="605"/>
+	<SubTexture name="dead0009" x="2120" y="596" width="424" height="605"/>
+	<SubTexture name="dead0010" x="2120" y="596" width="424" height="605"/>
+	<SubTexture name="dead0011" x="2120" y="596" width="424" height="605"/>
+	<SubTexture name="dead0012" x="2120" y="596" width="424" height="605"/>
+	<SubTexture name="dead0013" x="2120" y="596" width="424" height="605"/>
+	<SubTexture name="dead0014" x="2120" y="596" width="424" height="605"/>
+	<SubTexture name="dead0015" x="2120" y="596" width="424" height="605"/>
+	<SubTexture name="dead0016" x="2120" y="596" width="424" height="605"/>
+	<SubTexture name="dead0017" x="2120" y="596" width="424" height="605"/>
+	<SubTexture name="dead0018" x="2120" y="596" width="424" height="605"/>
+	<SubTexture name="dead0019" x="2544" y="596" width="424" height="605"/>
+	<SubTexture name="dead0020" x="2544" y="596" width="424" height="605"/>
+	<SubTexture name="dead0021" x="2968" y="596" width="424" height="605"/>
+	<SubTexture name="dead0022" x="2968" y="596" width="424" height="605"/>
+	<SubTexture name="dead0023" x="3392" y="596" width="424" height="605"/>
+	<SubTexture name="dead0024" x="3392" y="596" width="424" height="605"/>
+	<SubTexture name="dead0025" x="3816" y="596" width="424" height="605"/>
+	<SubTexture name="dead0026" x="3816" y="596" width="424" height="605"/>
+	<SubTexture name="dead0027" x="4240" y="596" width="424" height="605"/>
+	<SubTexture name="dead0028" x="4240" y="596" width="424" height="605"/>
+	<SubTexture name="dead0029" x="4664" y="596" width="424" height="605"/>
+	<SubTexture name="dead0030" x="5088" y="596" width="424" height="605"/>
+	<SubTexture name="dead0031" x="5088" y="596" width="424" height="605"/>
+	<SubTexture name="dead0032" x="5088" y="596" width="424" height="605"/>
+	<SubTexture name="dead0033" x="5088" y="596" width="424" height="605"/>
+	<SubTexture name="dead0034" x="4240" y="596" width="424" height="605"/>
+	<SubTexture name="dead0035" x="5512" y="596" width="424" height="605"/>
+	<SubTexture name="dead0036" x="5512" y="596" width="424" height="605"/>
+	<SubTexture name="dead0037" x="5936" y="596" width="424" height="605"/>
+	<SubTexture name="dead0038" x="5936" y="596" width="424" height="605"/>
+	<SubTexture name="dead0039" x="6360" y="596" width="424" height="605"/>
+	<SubTexture name="dead0040" x="6360" y="596" width="424" height="605"/>
+	<SubTexture name="dead0041" x="6360" y="596" width="424" height="605"/>
+	<SubTexture name="dead0042" x="6784" y="596" width="424" height="605"/>
+	<SubTexture name="dead0043" x="6784" y="596" width="424" height="605"/>
+	<SubTexture name="dead0044" x="6784" y="596" width="424" height="605"/>
+	<SubTexture name="dead0045" x="7208" y="596" width="424" height="605"/>
+	<SubTexture name="dead0046" x="7208" y="596" width="424" height="605"/>
+	<SubTexture name="dead0047" x="7208" y="596" width="424" height="605"/>
+	<SubTexture name="dead0048" x="7208" y="596" width="424" height="605"/>
+	<SubTexture name="dead0049" x="7208" y="596" width="424" height="605"/>
+	<SubTexture name="dead0050" x="7208" y="596" width="424" height="605"/>
+	<SubTexture name="dead0051" x="7208" y="596" width="424" height="605"/>
+	<SubTexture name="dead0052" x="7208" y="596" width="424" height="605"/>
+	<SubTexture name="dead0053" x="7208" y="596" width="424" height="605"/>
+	<SubTexture name="dead0054" x="7208" y="596" width="424" height="605"/>
+	<SubTexture name="dead0055" x="7208" y="596" width="424" height="605"/>
+	<SubTexture name="dead0056" x="7208" y="596" width="424" height="605"/>
+	<SubTexture name="dead0057" x="7208" y="596" width="424" height="605"/>
+	<SubTexture name="hiroko danceleft0000" x="3954" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceleft0001" x="3954" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceleft0002" x="4264" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceleft0003" x="4264" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceleft0004" x="4574" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceleft0005" x="4574" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceleft0006" x="4884" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceleft0007" x="5194" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceleft0008" x="5194" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceleft0009" x="5194" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceleft0010" x="5194" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceleft0011" x="5194" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceleft0012" x="5194" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceleft0013" x="5194" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceright0000" x="5504" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceright0001" x="5504" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceright0002" x="5814" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceright0003" x="5814" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceright0004" x="6124" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceright0005" x="6124" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceright0006" x="6434" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceright0007" x="5194" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceright0008" x="5194" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceright0009" x="5194" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceright0010" x="5194" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceright0011" x="5194" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceright0012" x="5194" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko danceright0013" x="5194" y="1201" width="310" height="542"/>
+	<SubTexture name="hiroko down0000" x="6744" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko down0001" x="6744" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko down0002" x="7059" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko down0003" x="7059" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko down0004" x="7059" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko down0005" x="7059" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko down0006" x="7059" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko down0007" x="7059" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko down0008" x="7059" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko down0009" x="7059" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko down0010" x="7059" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko down0011" x="7059" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko down0012" x="7059" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko down0013" x="7059" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko down0014" x="7059" y="1201" width="315" height="514"/>
+	<SubTexture name="hiroko hey0000" x="7374" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko hey0001" x="7374" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko hey0002" x="7683" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko hey0003" x="7683" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko hey0004" x="7683" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko hey0005" x="7683" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko hey0006" x="7683" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko hey0007" x="7683" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko hey0008" x="7683" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko hey0009" x="7683" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko hey0010" x="7683" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko hey0011" x="7683" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko hey0012" x="7683" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko hey0013" x="7683" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko hey0014" x="7683" y="1201" width="309" height="521"/>
+	<SubTexture name="hiroko left0000" x="0" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko left0001" x="0" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko left0002" x="310" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko left0003" x="310" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko left0004" x="310" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko left0005" x="310" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko left0006" x="310" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko left0007" x="310" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko left0008" x="310" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko left0009" x="310" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko left0010" x="310" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko left0011" x="310" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko left0012" x="310" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko left0013" x="310" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko left0014" x="310" y="1797" width="310" height="542"/>
+	<SubTexture name="hiroko right0000" x="620" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko right0001" x="620" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko right0002" x="940" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko right0003" x="940" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko right0004" x="940" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko right0005" x="940" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko right0006" x="940" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko right0007" x="940" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko right0008" x="940" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko right0009" x="940" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko right0010" x="940" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko right0011" x="940" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko right0012" x="940" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko right0013" x="940" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko right0014" x="940" y="1797" width="320" height="522"/>
+	<SubTexture name="hiroko up0000" x="1260" y="1797" width="343" height="588"/>
+	<SubTexture name="hiroko up0001" x="1260" y="1797" width="343" height="588"/>
+	<SubTexture name="hiroko up0002" x="1603" y="1797" width="343" height="588"/>
+	<SubTexture name="hiroko up0003" x="1603" y="1797" width="343" height="588"/>
+	<SubTexture name="hiroko up0004" x="1603" y="1797" width="343" height="588"/>
+	<SubTexture name="hiroko up0005" x="1603" y="1797" width="343" height="588"/>
+	<SubTexture name="hiroko up0006" x="1603" y="1797" width="343" height="588"/>
+	<SubTexture name="hiroko up0007" x="1603" y="1797" width="343" height="588"/>
+	<SubTexture name="hiroko up0008" x="1603" y="1797" width="343" height="588"/>
+	<SubTexture name="hiroko up0009" x="1603" y="1797" width="343" height="588"/>
+	<SubTexture name="hiroko up0010" x="1603" y="1797" width="343" height="588"/>
+	<SubTexture name="hiroko up0011" x="1603" y="1797" width="343" height="588"/>
+	<SubTexture name="hiroko up0012" x="1603" y="1797" width="343" height="588"/>
+	<SubTexture name="hiroko up0013" x="1603" y="1797" width="343" height="588"/>
+	<SubTexture name="hiroko up0014" x="1603" y="1797" width="343" height="588"/>
+	<SubTexture name="loop0000" x="7632" y="596" width="339" height="596"/>
+	<SubTexture name="loop0001" x="0" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0002" x="0" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0003" x="339" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0004" x="339" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0005" x="678" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0006" x="678" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0007" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0008" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0009" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0010" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0011" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0012" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0013" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0014" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0015" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0016" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0017" x="7632" y="596" width="339" height="596"/>
+	<SubTexture name="loop0018" x="0" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0019" x="0" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0020" x="339" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0021" x="339" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0022" x="678" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0023" x="678" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0024" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0025" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0026" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0027" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0028" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0029" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0030" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0031" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0032" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="loop0033" x="1017" y="1201" width="339" height="596"/>
+	<SubTexture name="missdown0000" x="1356" y="1201" width="316" height="519"/>
+	<SubTexture name="missdown0001" x="1356" y="1201" width="316" height="519"/>
+	<SubTexture name="missdown0002" x="1672" y="1201" width="316" height="519"/>
+	<SubTexture name="missdown0003" x="1672" y="1201" width="316" height="519"/>
+	<SubTexture name="missdown0004" x="1672" y="1201" width="316" height="519"/>
+	<SubTexture name="missdown0005" x="1672" y="1201" width="316" height="519"/>
+	<SubTexture name="missdown0006" x="1672" y="1201" width="316" height="519"/>
+	<SubTexture name="missdown0007" x="1672" y="1201" width="316" height="519"/>
+	<SubTexture name="missdown0008" x="1672" y="1201" width="316" height="519"/>
+	<SubTexture name="missdown0009" x="1672" y="1201" width="316" height="519"/>
+	<SubTexture name="missdown0010" x="1672" y="1201" width="316" height="519"/>
+	<SubTexture name="missdown0011" x="1672" y="1201" width="316" height="519"/>
+	<SubTexture name="missdown0012" x="1672" y="1201" width="316" height="519"/>
+	<SubTexture name="missdown0013" x="1672" y="1201" width="316" height="519"/>
+	<SubTexture name="missdown0014" x="1672" y="1201" width="316" height="519"/>
+	<SubTexture name="missleft0000" x="1988" y="1201" width="314" height="546"/>
+	<SubTexture name="missleft0001" x="1988" y="1201" width="314" height="546"/>
+	<SubTexture name="missleft0002" x="2302" y="1201" width="314" height="546"/>
+	<SubTexture name="missleft0003" x="2302" y="1201" width="314" height="546"/>
+	<SubTexture name="missleft0004" x="2302" y="1201" width="314" height="546"/>
+	<SubTexture name="missleft0005" x="2302" y="1201" width="314" height="546"/>
+	<SubTexture name="missleft0006" x="2302" y="1201" width="314" height="546"/>
+	<SubTexture name="missleft0007" x="2302" y="1201" width="314" height="546"/>
+	<SubTexture name="missleft0008" x="2302" y="1201" width="314" height="546"/>
+	<SubTexture name="missleft0009" x="2302" y="1201" width="314" height="546"/>
+	<SubTexture name="missleft0010" x="2302" y="1201" width="314" height="546"/>
+	<SubTexture name="missleft0011" x="2302" y="1201" width="314" height="546"/>
+	<SubTexture name="missleft0012" x="2302" y="1201" width="314" height="546"/>
+	<SubTexture name="missleft0013" x="2302" y="1201" width="314" height="546"/>
+	<SubTexture name="missleft0014" x="2302" y="1201" width="314" height="546"/>
+	<SubTexture name="missright0000" x="2616" y="1201" width="321" height="526"/>
+	<SubTexture name="missright0001" x="2616" y="1201" width="321" height="526"/>
+	<SubTexture name="missright0002" x="2937" y="1201" width="321" height="526"/>
+	<SubTexture name="missright0003" x="2937" y="1201" width="321" height="526"/>
+	<SubTexture name="missright0004" x="2937" y="1201" width="321" height="526"/>
+	<SubTexture name="missright0005" x="2937" y="1201" width="321" height="526"/>
+	<SubTexture name="missright0006" x="2937" y="1201" width="321" height="526"/>
+	<SubTexture name="missright0007" x="2937" y="1201" width="321" height="526"/>
+	<SubTexture name="missright0008" x="2937" y="1201" width="321" height="526"/>
+	<SubTexture name="missright0009" x="2937" y="1201" width="321" height="526"/>
+	<SubTexture name="missright0010" x="2937" y="1201" width="321" height="526"/>
+	<SubTexture name="missright0011" x="2937" y="1201" width="321" height="526"/>
+	<SubTexture name="missright0012" x="2937" y="1201" width="321" height="526"/>
+	<SubTexture name="missright0013" x="2937" y="1201" width="321" height="526"/>
+	<SubTexture name="missright0014" x="2937" y="1201" width="321" height="526"/>
+	<SubTexture name="missup0000" x="3258" y="1201" width="348" height="593"/>
+	<SubTexture name="missup0001" x="3258" y="1201" width="348" height="593"/>
+	<SubTexture name="missup0002" x="3606" y="1201" width="348" height="593"/>
+	<SubTexture name="missup0003" x="3606" y="1201" width="348" height="593"/>
+	<SubTexture name="missup0004" x="3606" y="1201" width="348" height="593"/>
+	<SubTexture name="missup0005" x="3606" y="1201" width="348" height="593"/>
+	<SubTexture name="missup0006" x="3606" y="1201" width="348" height="593"/>
+	<SubTexture name="missup0007" x="3606" y="1201" width="348" height="593"/>
+	<SubTexture name="missup0008" x="3606" y="1201" width="348" height="593"/>
+	<SubTexture name="missup0009" x="3606" y="1201" width="348" height="593"/>
+	<SubTexture name="missup0010" x="3606" y="1201" width="348" height="593"/>
+	<SubTexture name="missup0011" x="3606" y="1201" width="348" height="593"/>
+	<SubTexture name="missup0012" x="3606" y="1201" width="348" height="593"/>
+	<SubTexture name="missup0013" x="3606" y="1201" width="348" height="593"/>
+	<SubTexture name="missup0014" x="3606" y="1201" width="348" height="593"/>
+</TextureAtlas>

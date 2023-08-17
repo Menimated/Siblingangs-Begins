@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-141,
+				247
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hinata right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				203,
+				253
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hinata left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				71
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hinata down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				333
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hinata up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				251
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hinata idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/virus hinata school",
+	"position": [
+		-20,
+		410
+	],
+	"healthicon": "hinataxml3",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		140,
+		0
+	],
+	"camera_position": [
+		50,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

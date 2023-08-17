@@ -1,0 +1,12 @@
+@bgChange src="dialogue/part2/bg3" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="Man, We're surprised that you succeeded! Well done!" voclip="week2/21"
+@dialogue pos="R" portrait="zuki:talk" nameTag="-Zuki-" text="Pfft. Yeah, we are happy that everyone enjoys participating in rap battles." voclip="week2/22"
+@dialogue pos="L" portrait="kazashi:think" nameTag="-Kazashi-" text="But boyfriend, I have a question; Is that a girl who sitted on the speaker?" voclip="week2/23"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="yep" voclip="bf/voice4"
+@dialogue pos="L" portrait="zuki:talk" nameTag="-Zuki-" text="Hey uh, Now that it's getting dark, we're leaving to head home. We'll catch up with you all later." voclip="week2/24"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Beep bap!" voclip="bf/voice3"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="You too! Have a great day!" voclip="week2/25"
+
+
+
+

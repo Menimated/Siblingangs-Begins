@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kazashi-angry.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry down0000" x="20" y="20" width="326" height="517"/>
+	<SubTexture name="angry down0001" x="20" y="20" width="326" height="517"/>
+	<SubTexture name="angry down0002" x="366" y="20" width="326" height="517"/>
+	<SubTexture name="angry down0003" x="366" y="20" width="326" height="517"/>
+	<SubTexture name="angry down0004" x="366" y="20" width="326" height="517"/>
+	<SubTexture name="angry down0005" x="366" y="20" width="326" height="517"/>
+	<SubTexture name="angry down0006" x="366" y="20" width="326" height="517"/>
+	<SubTexture name="angry down0007" x="366" y="20" width="326" height="517"/>
+	<SubTexture name="angry down0008" x="366" y="20" width="326" height="517"/>
+	<SubTexture name="angry down0009" x="366" y="20" width="326" height="517"/>
+	<SubTexture name="angry down0010" x="366" y="20" width="326" height="517"/>
+	<SubTexture name="angry down0011" x="366" y="20" width="326" height="517"/>
+	<SubTexture name="angry down0012" x="366" y="20" width="326" height="517"/>
+	<SubTexture name="angry down0013" x="366" y="20" width="326" height="517"/>
+	<SubTexture name="angry down0014" x="366" y="20" width="326" height="517"/>
+	<SubTexture name="angry idle0000" x="712" y="20" width="323" height="545"/>
+	<SubTexture name="angry idle0001" x="712" y="20" width="323" height="545"/>
+	<SubTexture name="angry idle0002" x="1055" y="20" width="323" height="545"/>
+	<SubTexture name="angry idle0003" x="1055" y="20" width="323" height="545"/>
+	<SubTexture name="angry idle0004" x="1398" y="20" width="323" height="545"/>
+	<SubTexture name="angry idle0005" x="1398" y="20" width="323" height="545"/>
+	<SubTexture name="angry idle0006" x="1741" y="20" width="323" height="545"/>
+	<SubTexture name="angry idle0007" x="1741" y="20" width="323" height="545"/>
+	<SubTexture name="angry idle0008" x="2084" y="20" width="323" height="545"/>
+	<SubTexture name="angry idle0009" x="2084" y="20" width="323" height="545"/>
+	<SubTexture name="angry idle0010" x="2084" y="20" width="323" height="545"/>
+	<SubTexture name="angry idle0011" x="2084" y="20" width="323" height="545"/>
+	<SubTexture name="angry idle0012" x="2084" y="20" width="323" height="545"/>
+	<SubTexture name="angry idle0013" x="2084" y="20" width="323" height="545"/>
+	<SubTexture name="angry left0000" x="2427" y="20" width="392" height="534"/>
+	<SubTexture name="angry left0001" x="2427" y="20" width="392" height="534"/>
+	<SubTexture name="angry left0002" x="2839" y="20" width="392" height="534"/>
+	<SubTexture name="angry left0003" x="2839" y="20" width="392" height="534"/>
+	<SubTexture name="angry left0004" x="2839" y="20" width="392" height="534"/>
+	<SubTexture name="angry left0005" x="2839" y="20" width="392" height="534"/>
+	<SubTexture name="angry left0006" x="2839" y="20" width="392" height="534"/>
+	<SubTexture name="angry left0007" x="2839" y="20" width="392" height="534"/>
+	<SubTexture name="angry left0008" x="2839" y="20" width="392" height="534"/>
+	<SubTexture name="angry left0009" x="2839" y="20" width="392" height="534"/>
+	<SubTexture name="angry left0010" x="2839" y="20" width="392" height="534"/>
+	<SubTexture name="angry left0011" x="2839" y="20" width="392" height="534"/>
+	<SubTexture name="angry left0012" x="2839" y="20" width="392" height="534"/>
+	<SubTexture name="angry left0013" x="2839" y="20" width="392" height="534"/>
+	<SubTexture name="angry left0014" x="2839" y="20" width="392" height="534"/>
+	<SubTexture name="angry right0000" x="3251" y="20" width="338" height="543"/>
+	<SubTexture name="angry right0001" x="3251" y="20" width="338" height="543"/>
+	<SubTexture name="angry right0002" x="3609" y="20" width="338" height="543"/>
+	<SubTexture name="angry right0003" x="3609" y="20" width="338" height="543"/>
+	<SubTexture name="angry right0004" x="3609" y="20" width="338" height="543"/>
+	<SubTexture name="angry right0005" x="3609" y="20" width="338" height="543"/>
+	<SubTexture name="angry right0006" x="3609" y="20" width="338" height="543"/>
+	<SubTexture name="angry right0007" x="3609" y="20" width="338" height="543"/>
+	<SubTexture name="angry right0008" x="3609" y="20" width="338" height="543"/>
+	<SubTexture name="angry right0009" x="3609" y="20" width="338" height="543"/>
+	<SubTexture name="angry right0010" x="3609" y="20" width="338" height="543"/>
+	<SubTexture name="angry right0011" x="3609" y="20" width="338" height="543"/>
+	<SubTexture name="angry right0012" x="3609" y="20" width="338" height="543"/>
+	<SubTexture name="angry right0013" x="3609" y="20" width="338" height="543"/>
+	<SubTexture name="angry right0014" x="3609" y="20" width="338" height="543"/>
+	<SubTexture name="angry up0000" x="20" y="585" width="354" height="545"/>
+	<SubTexture name="angry up0001" x="20" y="585" width="354" height="545"/>
+	<SubTexture name="angry up0002" x="394" y="585" width="354" height="545"/>
+	<SubTexture name="angry up0003" x="394" y="585" width="354" height="545"/>
+	<SubTexture name="angry up0004" x="394" y="585" width="354" height="545"/>
+	<SubTexture name="angry up0005" x="394" y="585" width="354" height="545"/>
+	<SubTexture name="angry up0006" x="394" y="585" width="354" height="545"/>
+	<SubTexture name="angry up0007" x="394" y="585" width="354" height="545"/>
+	<SubTexture name="angry up0008" x="394" y="585" width="354" height="545"/>
+	<SubTexture name="angry up0009" x="394" y="585" width="354" height="545"/>
+	<SubTexture name="angry up0010" x="394" y="585" width="354" height="545"/>
+	<SubTexture name="angry up0011" x="394" y="585" width="354" height="545"/>
+	<SubTexture name="angry up0012" x="394" y="585" width="354" height="545"/>
+	<SubTexture name="angry up0013" x="394" y="585" width="354" height="545"/>
+	<SubTexture name="angry up0014" x="394" y="585" width="354" height="545"/>
+	<SubTexture name="fear down0000" x="768" y="585" width="325" height="542"/>
+	<SubTexture name="fear down0001" x="768" y="585" width="325" height="542"/>
+	<SubTexture name="fear down0002" x="1113" y="585" width="325" height="542"/>
+	<SubTexture name="fear down0003" x="1113" y="585" width="325" height="542"/>
+	<SubTexture name="fear down0004" x="1113" y="585" width="325" height="542"/>
+	<SubTexture name="fear down0005" x="1113" y="585" width="325" height="542"/>
+	<SubTexture name="fear down0006" x="1113" y="585" width="325" height="542"/>
+	<SubTexture name="fear down0007" x="1113" y="585" width="325" height="542"/>
+	<SubTexture name="fear down0008" x="1113" y="585" width="325" height="542"/>
+	<SubTexture name="fear down0009" x="1113" y="585" width="325" height="542"/>
+	<SubTexture name="fear down0010" x="1113" y="585" width="325" height="542"/>
+	<SubTexture name="fear down0011" x="1113" y="585" width="325" height="542"/>
+	<SubTexture name="fear down0012" x="1113" y="585" width="325" height="542"/>
+	<SubTexture name="fear down0013" x="1113" y="585" width="325" height="542"/>
+	<SubTexture name="fear down0014" x="1113" y="585" width="325" height="542"/>
+	<SubTexture name="fear idle0000" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0001" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0002" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0003" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0004" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0005" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0006" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0007" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0008" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0009" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0010" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0011" x="1802" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0012" x="1802" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0013" x="2146" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0014" x="2146" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0015" x="1802" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0016" x="1802" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0017" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0018" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0019" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0020" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0021" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0022" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0023" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0024" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0025" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0026" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0027" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0028" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0029" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0030" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0031" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0032" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0033" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0034" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0035" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0036" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0037" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0038" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0039" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0040" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0041" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0042" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0043" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0044" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0045" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0046" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0047" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0048" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0049" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0050" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0051" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0052" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0053" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0054" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0055" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0056" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0057" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0058" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0059" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0060" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0061" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0062" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0063" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0064" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0065" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0066" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0067" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0068" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0069" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0070" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0071" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0072" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0073" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0074" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0075" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0076" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0077" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0078" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0079" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0080" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0081" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0082" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0083" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0084" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0085" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0086" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0087" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0088" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0089" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0090" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0091" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0092" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0093" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0094" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear idle0095" x="1458" y="585" width="324" height="546"/>
+	<SubTexture name="fear left0000" x="2490" y="585" width="324" height="548"/>
+	<SubTexture name="fear left0001" x="2490" y="585" width="324" height="548"/>
+	<SubTexture name="fear left0002" x="2834" y="585" width="324" height="548"/>
+	<SubTexture name="fear left0003" x="2834" y="585" width="324" height="548"/>
+	<SubTexture name="fear left0004" x="2834" y="585" width="324" height="548"/>
+	<SubTexture name="fear left0005" x="2834" y="585" width="324" height="548"/>
+	<SubTexture name="fear left0006" x="2834" y="585" width="324" height="548"/>
+	<SubTexture name="fear left0007" x="2834" y="585" width="324" height="548"/>
+	<SubTexture name="fear left0008" x="2834" y="585" width="324" height="548"/>
+	<SubTexture name="fear left0009" x="2834" y="585" width="324" height="548"/>
+	<SubTexture name="fear left0010" x="2834" y="585" width="324" height="548"/>
+	<SubTexture name="fear left0011" x="2834" y="585" width="324" height="548"/>
+	<SubTexture name="fear left0012" x="2834" y="585" width="324" height="548"/>
+	<SubTexture name="fear left0013" x="2834" y="585" width="324" height="548"/>
+	<SubTexture name="fear left0014" x="2834" y="585" width="324" height="548"/>
+	<SubTexture name="fear right0000" x="3178" y="585" width="330" height="546"/>
+	<SubTexture name="fear right0001" x="3178" y="585" width="330" height="546"/>
+	<SubTexture name="fear right0002" x="3528" y="585" width="330" height="546"/>
+	<SubTexture name="fear right0003" x="3528" y="585" width="330" height="546"/>
+	<SubTexture name="fear right0004" x="3528" y="585" width="330" height="546"/>
+	<SubTexture name="fear right0005" x="3528" y="585" width="330" height="546"/>
+	<SubTexture name="fear right0006" x="3528" y="585" width="330" height="546"/>
+	<SubTexture name="fear right0007" x="3528" y="585" width="330" height="546"/>
+	<SubTexture name="fear right0008" x="3528" y="585" width="330" height="546"/>
+	<SubTexture name="fear right0009" x="3528" y="585" width="330" height="546"/>
+	<SubTexture name="fear right0010" x="3528" y="585" width="330" height="546"/>
+	<SubTexture name="fear right0011" x="3528" y="585" width="330" height="546"/>
+	<SubTexture name="fear right0012" x="3528" y="585" width="330" height="546"/>
+	<SubTexture name="fear right0013" x="3528" y="585" width="330" height="546"/>
+	<SubTexture name="fear right0014" x="3528" y="585" width="330" height="546"/>
+	<SubTexture name="fear up0000" x="20" y="1153" width="325" height="552"/>
+	<SubTexture name="fear up0001" x="20" y="1153" width="325" height="552"/>
+	<SubTexture name="fear up0002" x="365" y="1153" width="325" height="552"/>
+	<SubTexture name="fear up0003" x="365" y="1153" width="325" height="552"/>
+	<SubTexture name="fear up0004" x="365" y="1153" width="325" height="552"/>
+	<SubTexture name="fear up0005" x="365" y="1153" width="325" height="552"/>
+	<SubTexture name="fear up0006" x="365" y="1153" width="325" height="552"/>
+	<SubTexture name="fear up0007" x="365" y="1153" width="325" height="552"/>
+	<SubTexture name="fear up0008" x="365" y="1153" width="325" height="552"/>
+	<SubTexture name="fear up0009" x="365" y="1153" width="325" height="552"/>
+	<SubTexture name="fear up0010" x="365" y="1153" width="325" height="552"/>
+	<SubTexture name="fear up0011" x="365" y="1153" width="325" height="552"/>
+	<SubTexture name="fear up0012" x="365" y="1153" width="325" height="552"/>
+	<SubTexture name="fear up0013" x="365" y="1153" width="325" height="552"/>
+	<SubTexture name="fear up0014" x="365" y="1153" width="325" height="552"/>
+	<SubTexture name="scream0000" x="710" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0001" x="710" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0002" x="1211" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0003" x="710" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0004" x="1712" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0005" x="2213" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0006" x="710" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0007" x="1712" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0008" x="2213" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0009" x="1712" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0010" x="710" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0011" x="2714" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0012" x="1211" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0013" x="710" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0014" x="1712" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0015" x="2213" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0016" x="710" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0017" x="1712" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0018" x="2213" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0019" x="1712" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0020" x="710" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0021" x="2213" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0022" x="1712" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0023" x="710" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0024" x="1211" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0025" x="2714" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0026" x="2213" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0027" x="1712" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0028" x="710" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0029" x="1211" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0030" x="710" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0031" x="710" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0032" x="1211" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0033" x="710" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0034" x="1712" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0035" x="2213" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0036" x="710" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0037" x="1712" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0038" x="2714" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0039" x="1211" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0040" x="2714" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0041" x="3215" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0042" x="20" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0043" x="2714" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0044" x="20" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0045" x="20" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0046" x="521" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0047" x="20" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0048" x="20" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0049" x="521" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0050" x="20" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0051" x="20" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0052" x="521" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0053" x="1211" y="1153" width="481" height="594"/>
+	<SubTexture name="scream0054" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0055" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0056" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0057" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0058" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0059" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0060" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0061" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0062" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0063" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0064" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0065" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0066" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0067" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0068" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0069" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0070" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0071" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0072" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0073" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0074" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0075" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0076" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0077" x="1022" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0078" x="1523" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0079" x="1523" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0080" x="2024" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0081" x="2024" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0082" x="2525" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0083" x="2525" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0084" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0085" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0086" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0087" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0088" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0089" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0090" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0091" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0092" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0093" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0094" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0095" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0096" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0097" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0098" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0099" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0100" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0101" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0102" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0103" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0104" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0105" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0106" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0107" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0108" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0109" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0110" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0111" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0112" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0113" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0114" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0115" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0116" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0117" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0118" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0119" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0120" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0121" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0122" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0123" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0124" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0125" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0126" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0127" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0128" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0129" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0130" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0131" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0132" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0133" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0134" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0135" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0136" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0137" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0138" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0139" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0140" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0141" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0142" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0143" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0144" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0145" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0146" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0147" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0148" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0149" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0150" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0151" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0152" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0153" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0154" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0155" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0156" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0157" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0158" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0159" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0160" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0161" x="3026" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0162" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0163" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0164" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0165" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0166" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0167" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0168" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0169" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0170" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0171" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0172" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0173" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0174" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0175" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0176" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0177" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0178" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0179" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0180" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0181" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0182" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0183" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0184" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0185" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0186" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0187" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0188" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0189" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0190" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0191" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0192" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0193" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0194" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0195" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0196" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0197" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0198" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0199" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0200" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0201" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0202" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0203" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0204" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0205" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0206" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0207" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0208" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="scream0209" x="3527" y="1767" width="481" height="594"/>
+	<SubTexture name="shock0000" x="20" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0001" x="20" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0002" x="388" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0003" x="388" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0004" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0005" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0006" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0007" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0008" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0009" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0010" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0011" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0012" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0013" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0014" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0015" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0016" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0017" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0018" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0019" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0020" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0021" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0022" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0023" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0024" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0025" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0026" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0027" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0028" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0029" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0030" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0031" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0032" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0033" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0034" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0035" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0036" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0037" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0038" x="1124" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0039" x="1124" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0040" x="1492" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0041" x="1492" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0042" x="1124" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0043" x="1124" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0044" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0045" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0046" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0047" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0048" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0049" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0050" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0051" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0052" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0053" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0054" x="756" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0055" x="1124" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0056" x="1124" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0057" x="1492" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0058" x="1492" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0059" x="1860" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0060" x="1860" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0061" x="2228" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0062" x="2228" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0063" x="2228" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0064" x="2596" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0065" x="2596" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0066" x="2596" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0067" x="2596" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0068" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0069" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0070" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0071" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0072" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0073" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0074" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0075" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0076" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0077" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0078" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0079" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0080" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0081" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0082" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0083" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0084" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0085" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0086" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0087" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0088" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0089" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0090" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0091" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0092" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0093" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0094" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0095" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0096" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0097" x="2964" y="2381" width="348" height="551"/>
+	<SubTexture name="shock0098" x="2964" y="2381" width="348" height="551"/>
+</TextureAtlas>

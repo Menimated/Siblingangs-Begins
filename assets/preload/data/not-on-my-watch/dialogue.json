@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "menimated",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, Not bad!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "menimated",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm glad I'm as talented as you are when it comes to singing!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skeep beep boop bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "menimated",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's do it again with another song! This is going to be very interesting!"
+		}
+	]
+}

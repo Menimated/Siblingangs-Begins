@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 1.9,
+		"stage": "park",
+		"player1": "bf",
+		"player2": "himari",
+		"player3": null,
+		"events": [
+			[
+				6000,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				78750,
+				[
+					[
+						"Change Character",
+						"gf",
+						"air"
+					],
+					[
+						"ChangeStage",
+						"park2",
+						""
+					]
+				]
+			],
+			[
+				79500,
+				[
+					[
+						"Change Scroll Speed",
+						"0.7",
+						"0"
+					]
+				]
+			],
+			[
+				104250,
+				[
+					[
+						"Change Scroll Speed",
+						"1.0",
+						"0.1"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					],
+					[
+						"ChangeStage",
+						"park3",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-zuki&kazashi"
+					],
+					[
+						"Flash Camera",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				153000,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-zuki&kazashi",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Meeting"
+	}
+}

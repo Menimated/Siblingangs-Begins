@@ -1,0 +1,7 @@
+@bgChange src="dialogue/part1/bg" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="Hell yeah, You're doing great!" voclip="week1/37"
+@dialogue pos="R" portrait="zuki:talk" nameTag="-Zuki-" text="Now it's my turn!" voclip="week1/38"
+@dialogue pos="L" portrait="kazashi:angry" nameTag="-Kazashi-" text="Not now Onii-chan," voclip="week1/39"
+@dialogue pos="R" portrait="zuki:depressed" nameTag="-Zuki-" text="oh" voclip="week1/40"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Beep skoop boop bap!" voclip="bf/voice7"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="Let's do it!" voclip="week1/41"

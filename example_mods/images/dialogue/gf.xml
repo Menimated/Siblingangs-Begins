@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="confuse0000" x="0" y="0" width="603" height="961"/>
+	<SubTexture name="happy0000" x="603" y="0" width="603" height="964"/>
+	<SubTexture name="talk0000" x="1206" y="0" width="603" height="961"/>
+	<SubTexture name="think0000" x="0" y="964" width="603" height="961"/>
+</TextureAtlas>

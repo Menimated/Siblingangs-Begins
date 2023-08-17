@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TwoAnim.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="20000" x="20" y="20" width="411" height="364"/>
+	<SubTexture name="20001" x="20" y="20" width="411" height="364"/>
+	<SubTexture name="20002" x="451" y="20" width="411" height="364"/>
+	<SubTexture name="20003" x="20" y="404" width="411" height="364"/>
+	<SubTexture name="20004" x="20" y="404" width="411" height="364"/>
+	<SubTexture name="20005" x="451" y="404" width="411" height="364"/>
+	<SubTexture name="20006" x="20" y="788" width="411" height="364"/>
+	<SubTexture name="20007" x="20" y="788" width="411" height="364"/>
+	<SubTexture name="20008" x="20" y="788" width="411" height="364"/>
+	<SubTexture name="20009" x="20" y="788" width="411" height="364"/>
+	<SubTexture name="20010" x="20" y="788" width="411" height="364"/>
+	<SubTexture name="20011" x="20" y="788" width="411" height="364"/>
+	<SubTexture name="20012" x="451" y="788" width="411" height="364"/>
+	<SubTexture name="20013" x="451" y="788" width="411" height="364"/>
+	<SubTexture name="20014" x="20" y="1172" width="411" height="364"/>
+	<SubTexture name="20015" x="451" y="1172" width="411" height="364"/>
+</TextureAtlas>

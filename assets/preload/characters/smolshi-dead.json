@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-300
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "dead",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1250
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-1240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Smolshi",
+	"position": [
+		120,
+		10
+	],
+	"healthicon": "smolshi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		142,
+		255
+	],
+	"camera_position": [
+		120,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

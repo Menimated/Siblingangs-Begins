@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-62,
+				175
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "meni idle"
+		},
+		{
+			"offsets": [
+				-80,
+				191
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "meni left"
+		},
+		{
+			"offsets": [
+				-82,
+				142
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "meni right"
+		},
+		{
+			"offsets": [
+				-33,
+				111
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "meni down"
+		},
+		{
+			"offsets": [
+				-96,
+				213
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "meni up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/meniAsking",
+	"position": [
+		-30,
+		220
+	],
+	"healthicon": "menimated",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		135,
+		135
+	],
+	"camera_position": [
+		180,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

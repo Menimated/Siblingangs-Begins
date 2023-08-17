@@ -1,0 +1,5 @@
+@bgChange src="dialogue/dave/bff" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="kazashi" nameTag="" text="That is how I can call now... Me and Bambi are best friends for life!" voclip="weekDNB/40"
+@dialogue pos="L" portrait="kazashi" nameTag="" text="& I won't ever be alone again!" voclip="weekDNB/41"
+@dialogue pos="L" portrait="dave" nameTag="" text="I'm very happy Bambi has a best friend because then he won't have to worry about his corn ever again. Isn't it, Boyfriend?" voclip="weekDNB/42"
+@dialogue pos="L" portrait="bf" nameTag="" text="Yeah!" voclip="yeah"

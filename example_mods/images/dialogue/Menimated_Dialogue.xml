@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menimated_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="0" y="0" width="328" height="716" frameX="-1" frameY="0" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="angry0001" x="0" y="0" width="328" height="716" frameX="-1" frameY="0" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="angry0002" x="328" y="0" width="330" height="712" frameX="0" frameY="-4" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="angry0003" x="658" y="0" width="333" height="706" frameX="0" frameY="-10" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="angry0004" x="658" y="0" width="333" height="706" frameX="0" frameY="-10" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="confused0000" x="991" y="0" width="328" height="716" frameX="-1" frameY="0" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="confused0001" x="991" y="0" width="328" height="716" frameX="-1" frameY="0" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="confused0002" x="1319" y="0" width="330" height="712" frameX="0" frameY="-4" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="confused0003" x="1649" y="0" width="333" height="706" frameX="0" frameY="-10" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="confused0004" x="1649" y="0" width="333" height="706" frameX="0" frameY="-10" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="shy0000" x="0" y="716" width="328" height="716" frameX="-1" frameY="0" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="shy0001" x="0" y="716" width="328" height="716" frameX="-1" frameY="0" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="shy0002" x="328" y="716" width="330" height="712" frameX="0" frameY="-4" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="shy0003" x="658" y="716" width="333" height="706" frameX="0" frameY="-10" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="shy0004" x="658" y="716" width="333" height="706" frameX="0" frameY="-10" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="talk0000" x="991" y="716" width="328" height="716" frameX="-1" frameY="0" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="talk0001" x="991" y="716" width="328" height="716" frameX="-1" frameY="0" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="talk0002" x="1319" y="716" width="330" height="712" frameX="0" frameY="-4" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="talk0003" x="1649" y="716" width="333" height="706" frameX="0" frameY="-10" frameWidth="333" frameHeight="716"/>
+	<SubTexture name="talk0004" x="1649" y="716" width="333" height="706" frameX="0" frameY="-10" frameWidth="333" frameHeight="716"/>
+</TextureAtlas>

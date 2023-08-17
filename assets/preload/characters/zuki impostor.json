@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-34,
+				204
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "sussy idle"
+		},
+		{
+			"offsets": [
+				139,
+				205
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sussy left"
+		},
+		{
+			"offsets": [
+				43,
+				175
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sussy down"
+		},
+		{
+			"offsets": [
+				79,
+				225
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sussy up"
+		},
+		{
+			"offsets": [
+				58,
+				204
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sussy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zukiImpostor",
+	"position": [
+		10,
+		510
+	],
+	"healthicon": "zukiAmongUs",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,102 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "RemasteredKazashi_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-201,
+				38
+			],
+			"loop_offsets": [
+				-201,
+				41
+			],
+			"anim": "talk",
+			"idle_name": "talk",
+			"loop_name": "talk"
+		},
+		{
+			"loop_offsets": [
+				-210,
+				40
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				-201,
+				38
+			],
+			"loop_name": "angry",
+			"idle_name": "angry"
+		},
+		{
+			"loop_offsets": [
+				-180,
+				20
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				-224,
+				36
+			],
+			"loop_name": "sad",
+			"idle_name": "sad"
+		},
+		{
+			"loop_offsets": [
+				-180,
+				20
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				-180,
+				20
+			],
+			"loop_name": "happy",
+			"idle_name": "happy"
+		},
+		{
+			"loop_name": "confuse",
+			"idle_offsets": [
+				-221,
+				40
+			],
+			"idle_name": "confuse",
+			"anim": "confuse",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "think",
+			"idle_offsets": [
+				-219,
+				40
+			],
+			"idle_name": "think",
+			"anim": "think",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "scared",
+			"idle_offsets": [
+				-208,
+				31
+			],
+			"idle_name": "scared",
+			"anim": "scared",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

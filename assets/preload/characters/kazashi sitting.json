@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				189
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "cute danceleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				189
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "cute danceright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				184
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cut right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				190
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cute left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				183
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cute down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				191
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cute up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kazashi sitting",
+	"position": [
+		120,
+		340
+	],
+	"healthicon": "kazashi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		255
+	],
+	"camera_position": [
+		10,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

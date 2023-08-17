@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cat idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				163
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cat right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				158
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cat left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				134
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cat down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				167
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cat up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				163
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				158
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				134
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				167
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				147
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "cat meow",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				150
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "cat dead",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				145
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "cat sad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				158
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "cat meow",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/socute",
+	"position": [
+		60,
+		420
+	],
+	"healthicon": "kazashi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		255
+	],
+	"camera_position": [
+		-110,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

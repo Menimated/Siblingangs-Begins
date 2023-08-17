@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				244
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hinata right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				249
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hinata left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				234
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hinata down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				284
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hinata up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-54,
+				233
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hinata idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				233
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "hinata alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				286
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "hinata scream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				245
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hinata laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hinata xml",
+	"position": [
+		-20,
+		410
+	],
+	"healthicon": "hinataxml",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		140,
+		0
+	],
+	"camera_position": [
+		50,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

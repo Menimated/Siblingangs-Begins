@@ -1,0 +1,8 @@
+@bgChange src="dialogue/part3/bg" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="zuki:shy" nameTag="-Zuki-" text="Wow! I never anticipated you would act in this way! How incredible you are!" voclip="week3/31"
+@dialogue pos="R" portrait="himari:happy" nameTag="-Himari-" text="Wait, Am I? Aww! Thanks, Zuki! I'm really grateful for it! Really, a lot!" voclip="week3/32"
+@dialogue pos="L" portrait="zuki:talk" nameTag="-Zuki-" text="Hey, I'm going to spend the day out with my girlfriend Himrari Go ask Hinata, she's one of the singers that wants to participate in a rap battle." voclip="week3/33"
+@dialogue pos="R" portrait="bf:confused" nameTag="-Boyfriend-" text="(who tf is hinata?)" voclip="bf/voice2"
+@dialogue pos="L" portrait="kazashi:talk" nameTag="-Kazashi-" text="She's a Meni's sister. If you want to rap battle her, you can. You get to decide!" voclip="week3/34"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="I'm gonna go!" voclip="week3/35"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Beep!" voclip="bf/voice3"

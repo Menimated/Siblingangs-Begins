@@ -1,0 +1,5 @@
+@bgChange src="dialogue/finalpart/bg3" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="harukiu:talk" nameTag="-Haruki-" text="Sorry. That won't help you to defeat me." voclip="weekFinale/3"
+@dialogue pos="R" portrait="bf:angry" nameTag="-Boyfriend-" text="Skoop beep!?" voclip="bf/voice6"
+@dialogue pos="L" portrait="harukiu:talk" nameTag="-Haruki-" text="since it's still not over! Every time, I'm more powerful than you. If you say those things, I'll make you regret it and destroy you." voclip="weekFinale/4"
+@dialogue pos="L" portrait="harukiu:talk" nameTag="-Haruki-" text="Get ready for round 2!" voclip="weekFinale/5"

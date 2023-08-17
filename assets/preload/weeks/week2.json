@@ -1,0 +1,50 @@
+{
+	"storyName": "Cheer up",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "newstage",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Anywhere",
+			"zuki",
+			[
+				180,
+				255,
+				20
+			]
+		],
+		[
+			"OwO",
+			"kazashi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Begin",
+			"zuki&kazashi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"door",
+		""
+	],
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

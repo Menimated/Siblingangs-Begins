@@ -1,0 +1,8 @@
+@bgChange src="dialogue/meni/bg" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="meni:mad" nameTag="-Meni-" text="Oh, It's you..." voclip="weekMeni/7"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Beep boop!" voclip="bf/voice7"
+@dialogue pos="L" portrait="meni:confused" nameTag="-Meni-" text="I'll... think about it." voclip="weekMeni/8"
+@dialogue pos="R" portrait="hinata:happy" nameTag="-Hinata-" text="C'mon, Onii-chan Get your act together and stop being such a baby!" voclip="weekMeni/9"
+@dialogue pos="R" portrait="hinata:talk" nameTag="-Hinata-" text="Look, just have fun with them in a rap battle!" voclip="weekMeni/10"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Boop bap?" voclip="bf/voice1"
+@dialogue pos="L" portrait="meni:talk" nameTag="-Meni-" text="Alright. Let's begin!" voclip="weekMeni/11"

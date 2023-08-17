@@ -1,0 +1,50 @@
+{
+	"storyName": "Hinata's new friend",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "street",
+	"weekBefore": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Onii",
+			"hinata",
+			[
+				220,
+				173,
+				0
+			]
+		],
+		[
+			"stoppable",
+			"haruki",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"the most powerful",
+			"unfairharuki",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"door",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

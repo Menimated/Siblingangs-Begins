@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_game.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="game basic0000" x="0" y="0" width="376" height="739"/>
+	<SubTexture name="game white0000" x="376" y="0" width="368" height="731"/>
+</TextureAtlas>

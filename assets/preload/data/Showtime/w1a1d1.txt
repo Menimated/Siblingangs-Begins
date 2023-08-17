@@ -1,0 +1,5 @@
+@bgChange src="dialogue/dave/bg" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="dave:happy" nameTag="-Dave-" text="You're doing great!" voclip="weekDNB/17"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Skoop beep boop bap!" voclip="bf/voice3"
+@dialogue pos="L" portrait="dave:talk" nameTag="-Dave-" text="At least we're doing it again. What do you think?" voclip="weekDNB/18"
+@dialogue pos="R" portrait="bf:hey" nameTag="-Boyfriend-" text="Beep!" voclip="bf/voice4" 

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zuki.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="0" y="0" width="599" height="1072"/>
+	<SubTexture name="depressed0000" x="599" y="0" width="599" height="1072"/>
+	<SubTexture name="sad0000" x="1198" y="0" width="626" height="1010"/>
+	<SubTexture name="shy0000" x="1824" y="0" width="599" height="1072"/>
+	<SubTexture name="talk0000" x="2423" y="0" width="599" height="1072"/>
+	<SubTexture name="think0000" x="3022" y="0" width="585" height="1082"/>
+</TextureAtlas>

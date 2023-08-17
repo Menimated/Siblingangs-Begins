@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tristan.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="confuse0000" x="0" y="0" width="527" height="920"/>
+	<SubTexture name="happy0000" x="527" y="0" width="545" height="920"/>
+	<SubTexture name="sad0000" x="1072" y="0" width="522" height="925"/>
+	<SubTexture name="surprise0000" x="0" y="925" width="558" height="959"/>
+	<SubTexture name="talk0000" x="558" y="925" width="527" height="920"/>
+</TextureAtlas>

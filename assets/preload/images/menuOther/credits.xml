@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="credits.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="akani Button0000" x="0" y="0" width="398" height="351"/>
+	<SubTexture name="akani Select0000" x="398" y="0" width="391" height="344"/>
+	<SubTexture name="champ Button0000" x="789" y="0" width="398" height="351"/>
+	<SubTexture name="champ Select0000" x="1187" y="0" width="391" height="344"/>
+	<SubTexture name="discord Button0000" x="1578" y="0" width="231" height="137"/>
+	<SubTexture name="discord Select0000" x="1809" y="0" width="224" height="130"/>
+	<SubTexture name="killer Button0000" x="0" y="351" width="398" height="351"/>
+	<SubTexture name="killer Select0000" x="398" y="351" width="391" height="344"/>
+	<SubTexture name="menimated Button0000" x="789" y="351" width="398" height="351"/>
+	<SubTexture name="menimated Select0000" x="1187" y="351" width="391" height="344"/>
+	<SubTexture name="mom Button0000" x="1578" y="351" width="398" height="351"/>
+	<SubTexture name="mom Select0000" x="0" y="702" width="391" height="344"/>
+	<SubTexture name="omega Button0000" x="391" y="702" width="398" height="351"/>
+	<SubTexture name="omega Select0000" x="789" y="702" width="391" height="344"/>
+	<SubTexture name="original Button0000" x="1180" y="702" width="231" height="137"/>
+	<SubTexture name="original Select0000" x="1411" y="702" width="224" height="130"/>
+	<SubTexture name="special thanks Button0000" x="1635" y="702" width="231" height="137"/>
+	<SubTexture name="special thanks Select0000" x="0" y="1053" width="224" height="130"/>
+	<SubTexture name="stuby Button0000" x="224" y="1053" width="398" height="351"/>
+	<SubTexture name="stuby Select0000" x="622" y="1053" width="391" height="344"/>
+	<SubTexture name="xara Button0000" x="1013" y="1053" width="398" height="351"/>
+	<SubTexture name="xara Select0000" x="1411" y="1053" width="391" height="344"/>
+</TextureAtlas>

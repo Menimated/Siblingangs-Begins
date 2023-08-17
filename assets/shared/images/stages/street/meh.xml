@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="meh.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hinata idle0000" x="0" y="0" width="349" height="579"/>
+	<SubTexture name="hinata idle0001" x="0" y="0" width="349" height="579"/>
+	<SubTexture name="hinata idle0002" x="349" y="0" width="349" height="579"/>
+	<SubTexture name="hinata idle0003" x="349" y="0" width="349" height="579"/>
+	<SubTexture name="hinata idle0004" x="698" y="0" width="349" height="579"/>
+	<SubTexture name="hinata idle0005" x="698" y="0" width="349" height="579"/>
+	<SubTexture name="hinata idle0006" x="1047" y="0" width="349" height="579"/>
+	<SubTexture name="hinata idle0007" x="1047" y="0" width="349" height="579"/>
+	<SubTexture name="hinata idle0008" x="1396" y="0" width="349" height="579"/>
+	<SubTexture name="hinata idle0009" x="1396" y="0" width="349" height="579"/>
+	<SubTexture name="hinata idle0010" x="1396" y="0" width="349" height="579"/>
+	<SubTexture name="hinata idle0011" x="1396" y="0" width="349" height="579"/>
+	<SubTexture name="hinata idle0012" x="1396" y="0" width="349" height="579"/>
+	<SubTexture name="hinata idle0013" x="1396" y="0" width="349" height="579"/>
+</TextureAtlas>

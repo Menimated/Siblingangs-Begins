@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Wha...",
+			"boxState": "normal",
+			"sound": "dialogue/hinataxml",
+			"speed": 0.05,
+			"portrait": "hinataxml"
+		},
+		{
+			"expression": "talk",
+			"text": "Huh?",
+			"boxState": "normal",
+			"sound": "dialogue/bf",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "talk",
+			"text": "What were you thinking...?",
+			"boxState": "normal",
+			"sound": "dialogue/hinataxml",
+			"speed": 0.05,
+			"portrait": "hinataxml"
+		},
+		{
+			"expression": "confused",
+			"text": "What are you talking about?",
+			"boxState": "normal",
+			"sound": "dialogue/bf",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "talk",
+			"text": "You really think you can get away with cheating?",
+			"boxState": "normal",
+			"sound": "dialogue/hinataxml",
+			"speed": 0.05,
+			"portrait": "hinataxml"
+		},
+		{
+			"expression": "talk",
+			"text": "You are in trouble now boyfriend.",
+			"boxState": "normal",
+			"sound": "dialogue/hinataxml",
+			"speed": 0.05,
+			"portrait": "hinataxml"
+		},
+		{
+			"expression": "angry",
+			"text": "!!",
+			"boxState": "normal",
+			"sound": "dialogue/bf",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "talk",
+			"text": "This time, Botplay and Ghost tapping are immediately off...",
+			"boxState": "normal",
+			"sound": "dialogue/hinataxml",
+			"speed": 0.05,
+			"portrait": "hinataxml"
+		},
+		{
+			"sound": "dialogue/hinataxml",
+			"speed": 0.05,
+			"portrait": "hinataxml",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But if you LOSE, The game will be crashed."
+		},
+		{
+			"sound": "dialogue/hinataxml",
+			"speed": 0.05,
+			"portrait": "hinataxml",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU'LL NOT SURVIVE UNTIL YOU\"'LL WIN!!!"
+		}
+	]
+}

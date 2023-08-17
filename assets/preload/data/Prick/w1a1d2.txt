@@ -1,0 +1,8 @@
+@bgChange src="dialogue/part1/bg" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="Yay! I did it!" voclip="week1/42"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="Oh wait, I forgot that I believe BF was win. (Giggles) What a fool I am!" voclip="week1/43"
+@dialogue pos="L" portrait="kazashi:talk" nameTag="-Kazashi-" text="Onii-chan, Are you up next for the challenge?" voclip="week1/44"
+@dialogue pos="R" portrait="zuki:sad" nameTag="-Zuki-" text="I'm not sure... But not now, I'm not in the mood. Simply put, I'll do it later. I'm sorry, Kazashi." voclip="week1/45"
+@dialogue pos="L" portrait="kazashi:confuse" nameTag="-Kazashi-" text="Onii-chan?" voclip="week1/46"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Beep bap!" voclip="bf/voice1"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="Okay, I'll see you guys later!" voclip="week1/47"

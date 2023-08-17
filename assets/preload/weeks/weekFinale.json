@@ -1,0 +1,50 @@
+{
+	"storyName": "The finale",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "finale",
+	"weekBefore": "week4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"The end",
+			"unfairharuki",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Falling in",
+			"unfairharuki",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"All belongs to us",
+			"kazashi",
+			[
+				26,
+				33,
+				75
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"door",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

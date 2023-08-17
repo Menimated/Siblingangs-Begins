@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "You did it, Kazashi!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "angry",
+			"text": "But you won, Boyfriend, and Kazashi was already lost.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredzuki"
+		},
+		{
+			"expression": "happy",
+			"text": "Nah it's okay, I ain't mad!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredkazashi"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey wait a minute. Kazashi, Is it okay if we sing together right now?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredzuki"
+		},
+		{
+			"expression": "talk",
+			"text": "Sure thing!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredkazashi"
+		},
+		{
+			"expression": "pissed",
+			"text": "LET\"S FINISH THIS!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		}
+	]
+}

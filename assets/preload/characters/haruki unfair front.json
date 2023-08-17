@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				187
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "unfair idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-260,
+				197
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "unfair right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-330,
+				151
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "unfair left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-164,
+				139
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "unfair down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-298,
+				291
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "unfair up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/UNFAIRHarukiFront",
+	"position": [
+		-30,
+		160
+	],
+	"healthicon": "unfairharuki",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		-540,
+		-1700
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

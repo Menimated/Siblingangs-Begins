@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gaytext.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gaytext0000" x="0" y="0" width="349" height="168"/>
+	<SubTexture name="gaytext0001" x="0" y="0" width="349" height="168"/>
+	<SubTexture name="gaytext0002" x="349" y="0" width="349" height="168"/>
+	<SubTexture name="gaytext0003" x="349" y="0" width="349" height="168"/>
+	<SubTexture name="gaytext0004" x="0" y="168" width="349" height="168"/>
+	<SubTexture name="gaytext0005" x="0" y="168" width="349" height="168"/>
+	<SubTexture name="gaytext0006" x="0" y="168" width="349" height="168"/>
+	<SubTexture name="gaytext0007" x="349" y="168" width="349" height="168"/>
+	<SubTexture name="gaytext0008" x="349" y="168" width="349" height="168"/>
+	<SubTexture name="gaytext0009" x="349" y="168" width="349" height="168"/>
+	<SubTexture name="gaytext0010" x="0" y="336" width="349" height="168"/>
+	<SubTexture name="gaytext0011" x="0" y="336" width="349" height="168"/>
+	<SubTexture name="gaytext0012" x="0" y="336" width="349" height="168"/>
+</TextureAtlas>

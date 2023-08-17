@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "HELLO AND WELCOME TO MY AWESOME SONG LOLPOLOLOLOLOLOL",
+			"boxState": "normal",
+			"sound": "dialogue/zuz",
+			"speed": 0.05,
+			"portrait": "zuz"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bap bep?",
+			"boxState": "normal",
+			"sound": "dialogue/bf",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "talk",
+			"text": "STOP MAKING FUN OF ME YOU LITTLE BLUE HAIRED CHILD",
+			"boxState": "normal",
+			"sound": "dialogue/zuz",
+			"speed": 0.05,
+			"portrait": "zuz"
+		},
+		{
+			"expression": "talk",
+			"text": "Boop",
+			"boxState": "normal",
+			"sound": "dialogue/bf",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "talk",
+			"text": "SHUT UP AND LETS RAP",
+			"boxState": "normal",
+			"sound": "dialogue/zuz",
+			"speed": 0.05,
+			"portrait": "zuz"
+		},
+		{
+			"expression": "talk",
+			"text": "IF YOU LOSE YOU SUCK LMAO",
+			"boxState": "normal",
+			"sound": "dialogue/zuz",
+			"speed": 0.05,
+			"portrait": "zuz"
+		}
+	]
+}

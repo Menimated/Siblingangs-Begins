@@ -1,0 +1,10 @@
+@hidePanels
+@bgChange src="dialogue/meni/blank" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@wait time="2s"
+@showPanels
+@dialogue pos="L" portrait="hinata" nameTag="" text="\n\nOnii-chan..." voclip="weekMeni/1"
+@dialogue pos="L" portrait="hinata" nameTag="" text="\n\nOnii-chan, Wake up!" voclip="weekMeni/2"
+@dialogue pos="L" portrait="meni" nameTag="" text="\n\n*Yawn* what..." voclip="weekMeni/3"
+@dialogue pos="L" portrait="hinata" nameTag="" text="\n\nThey are waiting out for you. Come on! Time to get up now!" voclip="weekMeni/4"
+@dialogue pos="L" portrait="meni" nameTag="" text="\n\nGive me a moment, Hinata; I'm not in the mood right now." voclip="weekMeni/5"
+@dialogue pos="L" portrait="hinata" nameTag="" text="\n\nOnii-chan, don't be like that. Come on, the rap battle is waiting for you, Just get up!" voclip="weekMeni/6"

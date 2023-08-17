@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-216
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "smol idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-300
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "smol down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-188
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "smol up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				39,
+				-211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "smol right"
+		},
+		{
+			"offsets": [
+				-32,
+				-231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "smol left"
+		},
+		{
+			"offsets": [
+				40,
+				-300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown"
+		},
+		{
+			"offsets": [
+				-29,
+				-188
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missup"
+		},
+		{
+			"offsets": [
+				39,
+				-211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missright"
+		},
+		{
+			"offsets": [
+				-32,
+				-231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missleft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Smolshi",
+	"position": [
+		100,
+		-20
+	],
+	"healthicon": "smolshi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		142,
+		255
+	],
+	"camera_position": [
+		120,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

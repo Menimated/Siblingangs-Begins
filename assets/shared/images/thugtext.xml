@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thugtext.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thugtext0000" x="0" y="0" width="327" height="226"/>
+	<SubTexture name="thugtext0001" x="0" y="0" width="327" height="226"/>
+	<SubTexture name="thugtext0002" x="327" y="0" width="327" height="226"/>
+	<SubTexture name="thugtext0003" x="327" y="0" width="327" height="226"/>
+	<SubTexture name="thugtext0004" x="654" y="0" width="327" height="226"/>
+	<SubTexture name="thugtext0005" x="654" y="0" width="327" height="226"/>
+	<SubTexture name="thugtext0006" x="654" y="0" width="327" height="226"/>
+	<SubTexture name="thugtext0007" x="0" y="226" width="327" height="226"/>
+	<SubTexture name="thugtext0008" x="0" y="226" width="327" height="226"/>
+	<SubTexture name="thugtext0009" x="0" y="226" width="327" height="226"/>
+	<SubTexture name="thugtext0010" x="327" y="226" width="327" height="226"/>
+	<SubTexture name="thugtext0011" x="327" y="226" width="327" height="226"/>
+	<SubTexture name="thugtext0012" x="327" y="226" width="327" height="226"/>
+</TextureAtlas>

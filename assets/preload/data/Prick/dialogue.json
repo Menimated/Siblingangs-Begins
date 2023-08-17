@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "I did it! I won!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredkazashi"
+		},
+		{
+			"expression": "pissed",
+			"text": "But, aren't you the one who lost?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredzuki"
+		},
+		{
+			"expression": "sad",
+			"text": "Oh.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredkazashi"
+		},
+		{
+			"expression": "talk",
+			"text": "Nah, Don't worry about it; let's do it again!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "talk",
+			"text": "Right!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredkazashi"
+		}
+	]
+}

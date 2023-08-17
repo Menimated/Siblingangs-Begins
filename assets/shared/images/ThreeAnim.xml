@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ThreeAnim.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="30000" x="20" y="20" width="411" height="364"/>
+	<SubTexture name="30001" x="20" y="20" width="411" height="364"/>
+	<SubTexture name="30002" x="451" y="20" width="411" height="364"/>
+	<SubTexture name="30003" x="20" y="404" width="411" height="364"/>
+	<SubTexture name="30004" x="20" y="404" width="411" height="364"/>
+	<SubTexture name="30005" x="451" y="404" width="411" height="364"/>
+	<SubTexture name="30006" x="20" y="788" width="411" height="364"/>
+	<SubTexture name="30007" x="20" y="788" width="411" height="364"/>
+	<SubTexture name="30008" x="20" y="788" width="411" height="364"/>
+	<SubTexture name="30009" x="20" y="788" width="411" height="364"/>
+	<SubTexture name="30010" x="20" y="788" width="411" height="364"/>
+	<SubTexture name="30011" x="20" y="788" width="411" height="364"/>
+	<SubTexture name="30012" x="451" y="788" width="411" height="364"/>
+	<SubTexture name="30013" x="451" y="788" width="411" height="364"/>
+	<SubTexture name="30014" x="20" y="1172" width="411" height="364"/>
+	<SubTexture name="30015" x="451" y="1172" width="411" height="364"/>
+</TextureAtlas>

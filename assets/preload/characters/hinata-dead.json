@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "dead"
+		},
+		{
+			"offsets": [
+				-23,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "alive"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-23,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hinata but player",
+	"position": [
+		10,
+		110
+	],
+	"healthicon": "hinata",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		200,
+		0
+	],
+	"camera_position": [
+		50,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

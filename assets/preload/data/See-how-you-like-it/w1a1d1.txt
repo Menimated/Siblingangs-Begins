@@ -1,0 +1,8 @@
+@bgChange src="dialogue/part3/bg" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="Ahh, it is a wonderful day! Isn't it?" voclip="week3/1"
+@dialogue pos="R" portrait="zuki:talk" nameTag="-Zuki-" text="Pfft. yea, After three weeks, Where are the boyfriend and girlfriend, I wonder?" voclip="week3/2"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Beep bap!" voclip="bf/voice6"
+@dialogue pos="L" portrait="kazashi:talk" nameTag="-Kazashi-" text="Oh, you're here!" voclip="week3/3"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Bap beep!" voclip="bf/voice1" 
+@dialogue pos="R" portrait="bf:talk" nameTag="-???-" text="Not so fast, Blue hair kid!" voclip="week3/4"
+@dialogue pos="R" portrait="bf:what" nameTag="-Boyfriend-" text="?" voclip="bf/voice2"

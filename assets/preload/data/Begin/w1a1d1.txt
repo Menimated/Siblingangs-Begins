@@ -1,0 +1,8 @@
+@bgChange src="dialogue/part2/bg3" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="WOOO! The best song I've ever heard is that, man!" voclip="week2/15"
+@dialogue pos="R" portrait="zuki:talk" nameTag="-Zuki-" text="Hey Kazashi, can I ask you a question?" voclip="week2/16"
+@dialogue pos="L" portrait="kazashi:talk" nameTag="-Kazashi-" text="Yes?" voclip="week2/17"
+@dialogue pos="R" portrait="zuki:talk" nameTag="-Zuki-" text="We had another song for you, including us, so why can't we simply sing it together!" voclip="week2/18"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="Sure! We can do that!" voclip="week2/19"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="Hey Boyfriend, you ready for this?" voclip="week2/20"
+@dialogue pos="R" portrait="bf:hey" nameTag="-Boyfriend-" text="Yeah!" voclip="yeah"

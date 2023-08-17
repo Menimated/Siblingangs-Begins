@@ -1,0 +1,7 @@
+@bgChange src="dialogue/part1/bg" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="zuki:talk" nameTag="-Zuki-" text="Whoa..." voclip="week1/33"
+@dialogue pos="L" portrait="zuki:talk" nameTag="-Zuki-" text="I can't believe you did it!" voclip="week1/34"
+@dialogue pos="R" portrait="bf:hey" nameTag="-Boyfriend-" text="Yeah!" voclip="yeah"
+@dialogue pos="L" portrait="kazashi:happy" nameTag="-Kazashi-" text="Nice work! But now it's my turn!" voclip="week1/35"
+@dialogue pos="L" portrait="kazashi:talk" nameTag="-Kazashi-" text="Can I do it another song, please? I also prepared a different song for you!" voclip="week1/36"
+@dialogue pos="R" portrait="bf:talk" nameTag="-Boyfriend-" text="Bap!" voclip="bf/voice1"

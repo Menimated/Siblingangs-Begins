@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				176
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				142
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				201
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				192
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				189
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "danceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				189
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "danceRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				191
+			],
+			"anim": "shock",
+			"fps": 24,
+			"name": "ohno",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				185
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "shock left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				180
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "shock right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				142
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "shock down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				182
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "shock up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				190
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "heyo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				191
+			],
+			"anim": "talk",
+			"fps": 23,
+			"name": "talk",
+			"indices": []
+		},
+		{
+			"offsets": [
+				8,
+				183
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "best friend",
+			"loop": false,
+			"name": "bambi friend"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kazashi-assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "kazashi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		255
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

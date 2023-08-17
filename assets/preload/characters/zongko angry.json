@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				213
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "stupid idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				511,
+				377
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "stupid left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				211
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "stupid right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				225
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "stupid down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				494
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "stupid up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zongko angry",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "zongko",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

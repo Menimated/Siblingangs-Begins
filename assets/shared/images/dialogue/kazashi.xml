@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kazashi.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="20" y="20" width="323" height="553"/>
+	<SubTexture name="confuse0000" x="363" y="20" width="322" height="556"/>
+	<SubTexture name="happy0000" x="705" y="20" width="322" height="552"/>
+	<SubTexture name="pissed0000" x="1047" y="20" width="322" height="556"/>
+	<SubTexture name="sad0000" x="1389" y="20" width="320" height="549"/>
+	<SubTexture name="scared0000" x="20" y="596" width="321" height="548"/>
+	<SubTexture name="talk0000" x="361" y="596" width="323" height="553"/>
+	<SubTexture name="think0000" x="704" y="596" width="321" height="556"/>
+</TextureAtlas>

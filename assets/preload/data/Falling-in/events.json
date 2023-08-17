@@ -1,0 +1,64 @@
+{
+	"song": {
+		"speed": 1,
+		"stage": "street-harukiFinale2",
+		"player1": "bf rock",
+		"player2": "haruki unfair",
+		"player3": null,
+		"events": [
+			[
+				47524.7524752476,
+				[
+					[
+						"Set Cam Zoom",
+						"1.0",
+						"0.5"
+					]
+				]
+			],
+			[
+				57029.7029702971,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.5"
+					]
+				]
+			],
+			[
+				66534.6534653466,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"0.5"
+					]
+				]
+			],
+			[
+				180594.059405941,
+				[
+					[
+						"Flash Camera",
+						"1",
+						"1"
+					],
+					[
+						"Play Animation",
+						"bye",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "air",
+		"bpm": 202,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "Falling-in"
+	}
+}

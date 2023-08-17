@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hey, I did it!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredmenimated"
+		},
+		{
+			"expression": "talk",
+			"text": "Same here!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "talk",
+			"text": "It's easy right? First up are Zuki and Kazashi.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gfnew"
+		}
+	]
+}

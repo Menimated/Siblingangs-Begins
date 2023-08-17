@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowd.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="everyone0000" x="20" y="20" width="1429" height="652" frameX="0" frameY="-56" frameWidth="1429" frameHeight="708"/>
+	<SubTexture name="everyone0001" x="20" y="20" width="1429" height="652" frameX="0" frameY="-56" frameWidth="1429" frameHeight="708"/>
+	<SubTexture name="everyone0002" x="20" y="692" width="1429" height="694" frameX="0" frameY="-14" frameWidth="1429" frameHeight="708"/>
+	<SubTexture name="everyone0003" x="20" y="692" width="1429" height="694" frameX="0" frameY="-14" frameWidth="1429" frameHeight="708"/>
+	<SubTexture name="everyone0004" x="20" y="1406" width="1429" height="706" frameX="0" frameY="-2" frameWidth="1429" frameHeight="708"/>
+	<SubTexture name="everyone0005" x="20" y="1406" width="1429" height="706" frameX="0" frameY="-2" frameWidth="1429" frameHeight="708"/>
+	<SubTexture name="everyone0006" x="20" y="2132" width="1429" height="707" frameX="0" frameY="-1" frameWidth="1429" frameHeight="708"/>
+	<SubTexture name="everyone0007" x="20" y="2132" width="1429" height="707" frameX="0" frameY="-1" frameWidth="1429" frameHeight="708"/>
+	<SubTexture name="everyone0008" x="20" y="2859" width="1429" height="708"/>
+	<SubTexture name="everyone0009" x="20" y="2859" width="1429" height="708"/>
+	<SubTexture name="everyone0010" x="20" y="2859" width="1429" height="708"/>
+	<SubTexture name="everyone0011" x="20" y="2859" width="1429" height="708"/>
+	<SubTexture name="everyone0012" x="20" y="2859" width="1429" height="708"/>
+	<SubTexture name="everyone0013" x="20" y="2859" width="1429" height="708"/>
+</TextureAtlas>

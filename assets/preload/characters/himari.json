@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				67,
+				146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				-57,
+				156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				-70,
+				219
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				-29,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				-36,
+				201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				201
+			],
+			"anim": "talk",
+			"fps": 24,
+			"name": "line",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/himari-assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "himari",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		240,
+		180
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

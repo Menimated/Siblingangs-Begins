@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grace.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grace alt down0000" x="0" y="0" width="429" height="578"/>
+	<SubTexture name="grace alt down0001" x="0" y="0" width="429" height="578"/>
+	<SubTexture name="grace alt down0002" x="429" y="0" width="429" height="578"/>
+	<SubTexture name="grace alt down0003" x="429" y="0" width="429" height="578"/>
+	<SubTexture name="grace alt down0004" x="429" y="0" width="429" height="578"/>
+	<SubTexture name="grace alt down0005" x="429" y="0" width="429" height="578"/>
+	<SubTexture name="grace alt down0006" x="429" y="0" width="429" height="578"/>
+	<SubTexture name="grace alt down0007" x="429" y="0" width="429" height="578"/>
+	<SubTexture name="grace alt down0008" x="429" y="0" width="429" height="578"/>
+	<SubTexture name="grace alt down0009" x="429" y="0" width="429" height="578"/>
+	<SubTexture name="grace alt idle0000" x="858" y="0" width="430" height="602"/>
+	<SubTexture name="grace alt idle0001" x="1288" y="0" width="430" height="602"/>
+	<SubTexture name="grace alt idle0002" x="1718" y="0" width="430" height="602"/>
+	<SubTexture name="grace alt idle0003" x="2148" y="0" width="430" height="602"/>
+	<SubTexture name="grace alt idle0004" x="2578" y="0" width="430" height="602"/>
+	<SubTexture name="grace alt idle0005" x="3008" y="0" width="430" height="602"/>
+	<SubTexture name="grace alt idle0006" x="3438" y="0" width="430" height="602"/>
+	<SubTexture name="grace alt idle0007" x="0" y="602" width="430" height="602"/>
+	<SubTexture name="grace alt idle0008" x="430" y="602" width="430" height="602"/>
+	<SubTexture name="grace alt idle0009" x="3438" y="0" width="430" height="602"/>
+	<SubTexture name="grace alt left0000" x="860" y="602" width="482" height="592"/>
+	<SubTexture name="grace alt left0001" x="860" y="602" width="482" height="592"/>
+	<SubTexture name="grace alt left0002" x="1342" y="602" width="482" height="592"/>
+	<SubTexture name="grace alt left0003" x="1342" y="602" width="482" height="592"/>
+	<SubTexture name="grace alt left0004" x="1342" y="602" width="482" height="592"/>
+	<SubTexture name="grace alt left0005" x="1342" y="602" width="482" height="592"/>
+	<SubTexture name="grace alt left0006" x="1342" y="602" width="482" height="592"/>
+	<SubTexture name="grace alt left0007" x="1342" y="602" width="482" height="592"/>
+	<SubTexture name="grace alt left0008" x="1342" y="602" width="482" height="592"/>
+	<SubTexture name="grace alt left0009" x="1342" y="602" width="482" height="592"/>
+	<SubTexture name="grace alt right0000" x="1824" y="602" width="549" height="599"/>
+	<SubTexture name="grace alt right0001" x="1824" y="602" width="549" height="599"/>
+	<SubTexture name="grace alt right0002" x="2373" y="602" width="549" height="599"/>
+	<SubTexture name="grace alt right0003" x="2373" y="602" width="549" height="599"/>
+	<SubTexture name="grace alt right0004" x="2373" y="602" width="549" height="599"/>
+	<SubTexture name="grace alt right0005" x="2373" y="602" width="549" height="599"/>
+	<SubTexture name="grace alt right0006" x="2373" y="602" width="549" height="599"/>
+	<SubTexture name="grace alt right0007" x="2373" y="602" width="549" height="599"/>
+	<SubTexture name="grace alt right0008" x="2373" y="602" width="549" height="599"/>
+	<SubTexture name="grace alt right0009" x="2373" y="602" width="549" height="599"/>
+	<SubTexture name="grace alt up0000" x="2922" y="602" width="413" height="638"/>
+	<SubTexture name="grace alt up0001" x="2922" y="602" width="413" height="638"/>
+	<SubTexture name="grace alt up0002" x="3335" y="602" width="413" height="638"/>
+	<SubTexture name="grace alt up0003" x="3335" y="602" width="413" height="638"/>
+	<SubTexture name="grace alt up0004" x="3335" y="602" width="413" height="638"/>
+	<SubTexture name="grace alt up0005" x="3335" y="602" width="413" height="638"/>
+	<SubTexture name="grace alt up0006" x="3335" y="602" width="413" height="638"/>
+	<SubTexture name="grace alt up0007" x="3335" y="602" width="413" height="638"/>
+	<SubTexture name="grace alt up0008" x="3335" y="602" width="413" height="638"/>
+	<SubTexture name="grace alt up0009" x="3335" y="602" width="413" height="638"/>
+	<SubTexture name="grace down0000" x="0" y="1240" width="520" height="578"/>
+	<SubTexture name="grace down0001" x="0" y="1240" width="520" height="578"/>
+	<SubTexture name="grace down0002" x="520" y="1240" width="520" height="578"/>
+	<SubTexture name="grace down0003" x="520" y="1240" width="520" height="578"/>
+	<SubTexture name="grace down0004" x="520" y="1240" width="520" height="578"/>
+	<SubTexture name="grace down0005" x="520" y="1240" width="520" height="578"/>
+	<SubTexture name="grace down0006" x="520" y="1240" width="520" height="578"/>
+	<SubTexture name="grace down0007" x="520" y="1240" width="520" height="578"/>
+	<SubTexture name="grace down0008" x="520" y="1240" width="520" height="578"/>
+	<SubTexture name="grace down0009" x="520" y="1240" width="520" height="578"/>
+	<SubTexture name="grace idle0000" x="1040" y="1240" width="430" height="602"/>
+	<SubTexture name="grace idle0001" x="1040" y="1240" width="430" height="602"/>
+	<SubTexture name="grace idle0002" x="1470" y="1240" width="430" height="602"/>
+	<SubTexture name="grace idle0003" x="1470" y="1240" width="430" height="602"/>
+	<SubTexture name="grace idle0004" x="1900" y="1240" width="430" height="602"/>
+	<SubTexture name="grace idle0005" x="1900" y="1240" width="430" height="602"/>
+	<SubTexture name="grace idle0006" x="2330" y="1240" width="430" height="602"/>
+	<SubTexture name="grace idle0007" x="2330" y="1240" width="430" height="602"/>
+	<SubTexture name="grace idle0008" x="2330" y="1240" width="430" height="602"/>
+	<SubTexture name="grace idle0009" x="2330" y="1240" width="430" height="602"/>
+	<SubTexture name="grace left0000" x="2760" y="1240" width="592" height="592"/>
+	<SubTexture name="grace left0001" x="2760" y="1240" width="592" height="592"/>
+	<SubTexture name="grace left0002" x="3352" y="1240" width="592" height="592"/>
+	<SubTexture name="grace left0003" x="3352" y="1240" width="592" height="592"/>
+	<SubTexture name="grace left0004" x="3352" y="1240" width="592" height="592"/>
+	<SubTexture name="grace left0005" x="3352" y="1240" width="592" height="592"/>
+	<SubTexture name="grace left0006" x="3352" y="1240" width="592" height="592"/>
+	<SubTexture name="grace left0007" x="3352" y="1240" width="592" height="592"/>
+	<SubTexture name="grace left0008" x="3352" y="1240" width="592" height="592"/>
+	<SubTexture name="grace left0009" x="3352" y="1240" width="592" height="592"/>
+	<SubTexture name="grace offending0000" x="0" y="1842" width="432" height="604"/>
+	<SubTexture name="grace offending0001" x="432" y="1842" width="432" height="604"/>
+	<SubTexture name="grace offending0002" x="432" y="1842" width="432" height="604"/>
+	<SubTexture name="grace offending0003" x="864" y="1842" width="432" height="604"/>
+	<SubTexture name="grace offending0004" x="864" y="1842" width="432" height="604"/>
+	<SubTexture name="grace offending0005" x="864" y="1842" width="432" height="604"/>
+	<SubTexture name="grace offending0006" x="864" y="1842" width="432" height="604"/>
+	<SubTexture name="grace offending0007" x="864" y="1842" width="432" height="604"/>
+	<SubTexture name="grace offending0008" x="864" y="1842" width="432" height="604"/>
+	<SubTexture name="grace offending0009" x="864" y="1842" width="432" height="604"/>
+	<SubTexture name="grace right0000" x="1296" y="1842" width="463" height="591"/>
+	<SubTexture name="grace right0001" x="1296" y="1842" width="463" height="591"/>
+	<SubTexture name="grace right0002" x="1759" y="1842" width="463" height="591"/>
+	<SubTexture name="grace right0003" x="1759" y="1842" width="463" height="591"/>
+	<SubTexture name="grace right0004" x="1759" y="1842" width="463" height="591"/>
+	<SubTexture name="grace right0005" x="1759" y="1842" width="463" height="591"/>
+	<SubTexture name="grace right0006" x="1759" y="1842" width="463" height="591"/>
+	<SubTexture name="grace right0007" x="1759" y="1842" width="463" height="591"/>
+	<SubTexture name="grace right0008" x="1759" y="1842" width="463" height="591"/>
+	<SubTexture name="grace right0009" x="1759" y="1842" width="463" height="591"/>
+	<SubTexture name="grace up0000" x="2222" y="1842" width="441" height="638"/>
+	<SubTexture name="grace up0001" x="2222" y="1842" width="441" height="638"/>
+	<SubTexture name="grace up0002" x="2663" y="1842" width="441" height="638"/>
+	<SubTexture name="grace up0003" x="2663" y="1842" width="441" height="638"/>
+	<SubTexture name="grace up0004" x="2663" y="1842" width="441" height="638"/>
+	<SubTexture name="grace up0005" x="2663" y="1842" width="441" height="638"/>
+	<SubTexture name="grace up0006" x="2663" y="1842" width="441" height="638"/>
+	<SubTexture name="grace up0007" x="2663" y="1842" width="441" height="638"/>
+	<SubTexture name="grace up0008" x="2663" y="1842" width="441" height="638"/>
+	<SubTexture name="grace up0009" x="2663" y="1842" width="441" height="638"/>
+</TextureAtlas>

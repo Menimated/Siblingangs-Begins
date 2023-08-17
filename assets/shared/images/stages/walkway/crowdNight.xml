@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowdNight.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wow0000" x="20" y="20" width="846" height="235"/>
+	<SubTexture name="wow0001" x="20" y="20" width="846" height="235"/>
+	<SubTexture name="wow0002" x="20" y="275" width="846" height="235"/>
+	<SubTexture name="wow0003" x="20" y="275" width="846" height="235"/>
+	<SubTexture name="wow0004" x="20" y="530" width="846" height="235"/>
+	<SubTexture name="wow0005" x="20" y="530" width="846" height="235"/>
+	<SubTexture name="wow0006" x="20" y="530" width="846" height="235"/>
+	<SubTexture name="wow0007" x="20" y="530" width="846" height="235"/>
+	<SubTexture name="wow0008" x="20" y="785" width="846" height="235"/>
+	<SubTexture name="wow0009" x="20" y="785" width="846" height="235"/>
+	<SubTexture name="wow0010" x="20" y="785" width="846" height="235"/>
+	<SubTexture name="wow0011" x="20" y="785" width="846" height="235"/>
+	<SubTexture name="wow0012" x="20" y="785" width="846" height="235"/>
+	<SubTexture name="wow0013" x="20" y="785" width="846" height="235"/>
+</TextureAtlas>

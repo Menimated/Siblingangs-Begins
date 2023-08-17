@@ -1,0 +1,62 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Phew!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "talk",
+			"text": "Man, It was a great time! Isn't that the case?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "happy",
+			"text": "Heh heh heh... Yeah, it's a lot of fun!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredkazashi"
+		},
+		{
+			"expression": "hey",
+			"text": "Now that's what we called... a Siblingangs Begins!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"expression": "talk",
+			"text": "I guess I suppose we could just do a bonus!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "remasteredkazashi"
+		},
+		{
+			"expression": "shock",
+			"text": "Uhhhhhhhhhhhhhhhhh...................",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfnew"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "remasteredzuki",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "We'll do the bonus later; for now, let's get going!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "remasteredkazashi",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Oh, Right then!"
+		}
+	]
+}

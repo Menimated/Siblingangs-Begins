@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="himari.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="0" y="0" width="615" height="1039"/>
+	<SubTexture name="confuse0000" x="615" y="0" width="615" height="1039"/>
+	<SubTexture name="happy0000" x="1230" y="0" width="641" height="1039"/>
+	<SubTexture name="talk0000" x="1871" y="0" width="615" height="1039"/>
+</TextureAtlas>

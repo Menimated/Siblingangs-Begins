@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hinata blackout.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hinata down0000" x="20" y="20" width="399" height="638"/>
+	<SubTexture name="hinata down0001" x="20" y="20" width="399" height="638"/>
+	<SubTexture name="hinata down0002" x="20" y="20" width="399" height="638"/>
+	<SubTexture name="hinata down0003" x="20" y="20" width="399" height="638"/>
+	<SubTexture name="hinata down0004" x="20" y="20" width="399" height="638"/>
+	<SubTexture name="hinata down0005" x="20" y="20" width="399" height="638"/>
+	<SubTexture name="hinata down0006" x="20" y="20" width="399" height="638"/>
+	<SubTexture name="hinata down0007" x="20" y="20" width="399" height="638"/>
+	<SubTexture name="hinata down0008" x="20" y="20" width="399" height="638"/>
+	<SubTexture name="hinata down0009" x="20" y="20" width="399" height="638"/>
+	<SubTexture name="hinata down0010" x="20" y="20" width="399" height="638"/>
+	<SubTexture name="hinata down0011" x="20" y="20" width="399" height="638"/>
+	<SubTexture name="hinata down0012" x="20" y="20" width="399" height="638"/>
+	<SubTexture name="hinata down0013" x="20" y="20" width="399" height="638"/>
+	<SubTexture name="hinata idle0000" x="439" y="20" width="340" height="579"/>
+	<SubTexture name="hinata idle0001" x="439" y="20" width="340" height="579"/>
+	<SubTexture name="hinata idle0002" x="439" y="20" width="340" height="579"/>
+	<SubTexture name="hinata idle0003" x="439" y="20" width="340" height="579"/>
+	<SubTexture name="hinata idle0004" x="439" y="20" width="340" height="579"/>
+	<SubTexture name="hinata idle0005" x="439" y="20" width="340" height="579"/>
+	<SubTexture name="hinata idle0006" x="439" y="20" width="340" height="579"/>
+	<SubTexture name="hinata idle0007" x="439" y="20" width="340" height="579"/>
+	<SubTexture name="hinata idle0008" x="439" y="20" width="340" height="579"/>
+	<SubTexture name="hinata idle0009" x="439" y="20" width="340" height="579"/>
+	<SubTexture name="hinata idle0010" x="439" y="20" width="340" height="579"/>
+	<SubTexture name="hinata idle0011" x="439" y="20" width="340" height="579"/>
+	<SubTexture name="hinata idle0012" x="439" y="20" width="340" height="579"/>
+	<SubTexture name="hinata idle0013" x="439" y="20" width="340" height="579"/>
+	<SubTexture name="hinata left0000" x="799" y="20" width="399" height="638"/>
+	<SubTexture name="hinata left0001" x="799" y="20" width="399" height="638"/>
+	<SubTexture name="hinata left0002" x="799" y="20" width="399" height="638"/>
+	<SubTexture name="hinata left0003" x="799" y="20" width="399" height="638"/>
+	<SubTexture name="hinata left0004" x="799" y="20" width="399" height="638"/>
+	<SubTexture name="hinata left0005" x="799" y="20" width="399" height="638"/>
+	<SubTexture name="hinata left0006" x="799" y="20" width="399" height="638"/>
+	<SubTexture name="hinata left0007" x="799" y="20" width="399" height="638"/>
+	<SubTexture name="hinata left0008" x="799" y="20" width="399" height="638"/>
+	<SubTexture name="hinata left0009" x="799" y="20" width="399" height="638"/>
+	<SubTexture name="hinata left0010" x="799" y="20" width="399" height="638"/>
+	<SubTexture name="hinata left0011" x="799" y="20" width="399" height="638"/>
+	<SubTexture name="hinata left0012" x="799" y="20" width="399" height="638"/>
+	<SubTexture name="hinata left0013" x="799" y="20" width="399" height="638"/>
+	<SubTexture name="hinata right0000" x="1218" y="20" width="399" height="638"/>
+	<SubTexture name="hinata right0001" x="1218" y="20" width="399" height="638"/>
+	<SubTexture name="hinata right0002" x="1218" y="20" width="399" height="638"/>
+	<SubTexture name="hinata right0003" x="1218" y="20" width="399" height="638"/>
+	<SubTexture name="hinata right0004" x="1218" y="20" width="399" height="638"/>
+	<SubTexture name="hinata right0005" x="1218" y="20" width="399" height="638"/>
+	<SubTexture name="hinata right0006" x="1218" y="20" width="399" height="638"/>
+	<SubTexture name="hinata right0007" x="1218" y="20" width="399" height="638"/>
+	<SubTexture name="hinata right0008" x="1218" y="20" width="399" height="638"/>
+	<SubTexture name="hinata right0009" x="1218" y="20" width="399" height="638"/>
+	<SubTexture name="hinata right0010" x="1218" y="20" width="399" height="638"/>
+	<SubTexture name="hinata right0011" x="1218" y="20" width="399" height="638"/>
+	<SubTexture name="hinata right0012" x="1218" y="20" width="399" height="638"/>
+	<SubTexture name="hinata right0013" x="1218" y="20" width="399" height="638"/>
+	<SubTexture name="hinata up0000" x="20" y="678" width="399" height="638"/>
+	<SubTexture name="hinata up0001" x="20" y="678" width="399" height="638"/>
+	<SubTexture name="hinata up0002" x="20" y="678" width="399" height="638"/>
+	<SubTexture name="hinata up0003" x="20" y="678" width="399" height="638"/>
+	<SubTexture name="hinata up0004" x="20" y="678" width="399" height="638"/>
+	<SubTexture name="hinata up0005" x="20" y="678" width="399" height="638"/>
+	<SubTexture name="hinata up0006" x="20" y="678" width="399" height="638"/>
+	<SubTexture name="hinata up0007" x="20" y="678" width="399" height="638"/>
+	<SubTexture name="hinata up0008" x="20" y="678" width="399" height="638"/>
+	<SubTexture name="hinata up0009" x="20" y="678" width="399" height="638"/>
+	<SubTexture name="hinata up0010" x="20" y="678" width="399" height="638"/>
+	<SubTexture name="hinata up0011" x="20" y="678" width="399" height="638"/>
+	<SubTexture name="hinata up0012" x="20" y="678" width="399" height="638"/>
+	<SubTexture name="hinata up0013" x="20" y="678" width="399" height="638"/>
+	<SubTexture name="jumpscare0000" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0001" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0002" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0003" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0004" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0005" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0006" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0007" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0008" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0009" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0010" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0011" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0012" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0013" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0014" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0015" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0016" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0017" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0018" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0019" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0020" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0021" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0022" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0023" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0024" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0025" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0026" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0027" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0028" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0029" x="439" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0030" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0031" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0032" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0033" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0034" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0035" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0036" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0037" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0038" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0039" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0040" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0041" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0042" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0043" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0044" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0045" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0046" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0047" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0048" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0049" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0050" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0051" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0052" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0053" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0054" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0055" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0056" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0057" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0058" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0059" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0060" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0061" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0062" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0063" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0064" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0065" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0066" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0067" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0068" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0069" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0070" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0071" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0072" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0073" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0074" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0075" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0076" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0077" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0078" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0079" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0080" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0081" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0082" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0083" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0084" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0085" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0086" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0087" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0088" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0089" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0090" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0091" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0092" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0093" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0094" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0095" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0096" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0097" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0098" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0099" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0100" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0101" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0102" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0103" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0104" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0105" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0106" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0107" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0108" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0109" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0110" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0111" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0112" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0113" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0114" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0115" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0116" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0117" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0118" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0119" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0120" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0121" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0122" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0123" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0124" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0125" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0126" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0127" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0128" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0129" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0130" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0131" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0132" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0133" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0134" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0135" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0136" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0137" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0138" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0139" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0140" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0141" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0142" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0143" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0144" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0145" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0146" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0147" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0148" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0149" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0150" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0151" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0152" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0153" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0154" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0155" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0156" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0157" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0158" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0159" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0160" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0161" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0162" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0163" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0164" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0165" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0166" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0167" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0168" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0169" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0170" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0171" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0172" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0173" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0174" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0175" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0176" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0177" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0178" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0179" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0180" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0181" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0182" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0183" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0184" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0185" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0186" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0187" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0188" x="806" y="678" width="347" height="572"/>
+	<SubTexture name="jumpscare0189" x="806" y="678" width="347" height="572"/>
+</TextureAtlas>

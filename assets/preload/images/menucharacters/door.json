@@ -1,0 +1,11 @@
+{
+	"idle_anim": "idledoor",
+	"image": "Menu_Door",
+	"position": [
+		500,
+		851
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "hey"
+}

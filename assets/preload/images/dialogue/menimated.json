@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-181,
+				108
+			],
+			"loop_name": "",
+			"idle_name": "talk"
+		},
+		{
+			"idle_offsets": [
+				-180,
+				108
+			],
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "angry",
+			"loop_name": ""
+		},
+		{
+			"idle_offsets": [
+				-180,
+				105
+			],
+			"anim": "shy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "shy",
+			"loop_name": ""
+		},
+		{
+			"loop_name": "confused",
+			"idle_offsets": [
+				-180,
+				100
+			],
+			"idle_name": "confused",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Menimated_Dialogue"
+}

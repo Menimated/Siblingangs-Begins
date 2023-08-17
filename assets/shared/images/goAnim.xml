@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goAnim.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GO!!0000" x="20" y="20" width="868" height="571"/>
+	<SubTexture name="GO!!0001" x="20" y="20" width="868" height="571"/>
+	<SubTexture name="GO!!0002" x="908" y="20" width="868" height="571"/>
+	<SubTexture name="GO!!0003" x="908" y="20" width="868" height="571"/>
+	<SubTexture name="GO!!0004" x="20" y="611" width="868" height="571"/>
+	<SubTexture name="GO!!0005" x="908" y="611" width="868" height="571"/>
+	<SubTexture name="GO!!0006" x="20" y="1202" width="868" height="571"/>
+	<SubTexture name="GO!!0007" x="908" y="1202" width="868" height="571"/>
+	<SubTexture name="GO!!0008" x="20" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0009" x="908" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0010" x="908" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0011" x="908" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0012" x="908" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0013" x="908" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0014" x="908" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0015" x="908" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0016" x="908" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0017" x="908" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0018" x="908" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0019" x="908" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0020" x="908" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0021" x="908" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0022" x="908" y="1793" width="868" height="571"/>
+	<SubTexture name="GO!!0023" x="20" y="2384" width="868" height="571"/>
+	<SubTexture name="GO!!0024" x="20" y="2384" width="868" height="571"/>
+	<SubTexture name="GO!!0025" x="908" y="2384" width="868" height="571"/>
+	<SubTexture name="GO!!0026" x="908" y="2384" width="868" height="571"/>
+	<SubTexture name="GO!!0027" x="20" y="2975" width="868" height="571"/>
+	<SubTexture name="GO!!0028" x="908" y="2975" width="868" height="571"/>
+</TextureAtlas>

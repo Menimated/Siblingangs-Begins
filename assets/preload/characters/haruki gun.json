@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				176
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gun idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				189
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gun right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				136
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gun left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				143
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gun down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				210
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gun up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				183,
+				170
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "gun shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				168
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "gun hurt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-38,
+				191
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "a gun",
+			"loop": false,
+			"name": "that gun"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/harukiGUN",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "haruki",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

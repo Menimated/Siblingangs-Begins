@@ -1,0 +1,154 @@
+{
+	"song": {
+		"speed": 3.9,
+		"stage": "MeniANGER",
+		"player1": "bf",
+		"player2": "menimated anger issue",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Health Drain",
+						"0.9",
+						"0.09"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				56400,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						"0.7"
+					]
+				]
+			],
+			[
+				57450,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.2"
+					]
+				]
+			],
+			[
+				76725,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						"0.5"
+					]
+				]
+			],
+			[
+				95925,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.0",
+						"0.5"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						"0.7"
+					],
+					[
+						"Play Animation",
+						"ask",
+						"dad"
+					]
+				]
+			],
+			[
+				105603.125,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				107925,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.1"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				146400,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-only",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Anger-issue"
+	}
+}

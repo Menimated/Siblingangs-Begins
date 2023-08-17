@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="creditsAlt.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="discord Button0000" x="0" y="0" width="231" height="137"/>
+	<SubTexture name="discord Select0000" x="231" y="0" width="224" height="130"/>
+	<SubTexture name="original Button0000" x="0" y="137" width="231" height="137"/>
+	<SubTexture name="original Select0000" x="231" y="137" width="224" height="130"/>
+	<SubTexture name="special thanks Button0000" x="0" y="274" width="231" height="137"/>
+	<SubTexture name="special thanks Select0000" x="231" y="274" width="224" height="130"/>
+</TextureAtlas>

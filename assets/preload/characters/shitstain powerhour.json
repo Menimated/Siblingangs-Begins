@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-45,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf idle"
+		},
+		{
+			"offsets": [
+				-81,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf up 30"
+		},
+		{
+			"offsets": [
+				10,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf left 30"
+		},
+		{
+			"offsets": [
+				-86,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf right 30"
+		},
+		{
+			"offsets": [
+				-9,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf down 30"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/the_one_in_roughhouse",
+	"position": [
+		-50,
+		390
+	],
+	"healthicon": "menimated",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		80,
+		-20
+	],
+	"sing_duration": 9.99999999999998,
+	"scale": 1
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="disc.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="read0000" x="20" y="20" width="309" height="310"/>
+	<SubTexture name="read0001" x="20" y="350" width="309" height="310"/>
+</TextureAtlas>

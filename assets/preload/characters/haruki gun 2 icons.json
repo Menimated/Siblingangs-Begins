@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-80,
+				176
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "gun idle"
+		},
+		{
+			"offsets": [
+				-77,
+				189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "gun right"
+		},
+		{
+			"offsets": [
+				51,
+				136
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "gun left"
+		},
+		{
+			"offsets": [
+				-46,
+				143
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "gun down"
+		},
+		{
+			"offsets": [
+				-85,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "gun up"
+		},
+		{
+			"offsets": [
+				183,
+				170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "shoot",
+			"loop": false,
+			"name": "gun shoot"
+		},
+		{
+			"offsets": [
+				-24,
+				168
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hurt",
+			"loop": false,
+			"name": "gun hurt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/harukiGUN",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bambi&haruki",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		90,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

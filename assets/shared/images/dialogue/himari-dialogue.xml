@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="himari-dialogue.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="happy0000" x="20" y="20" width="266" height="568"/>
+	<SubTexture name="talk0000" x="306" y="20" width="264" height="568"/>
+</TextureAtlas>

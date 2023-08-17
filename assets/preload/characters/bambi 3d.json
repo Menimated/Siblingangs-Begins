@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-147,
+				-460
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bambi idle"
+		},
+		{
+			"offsets": [
+				-327,
+				-450
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bambi right"
+		},
+		{
+			"offsets": [
+				230,
+				-510
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bambi left"
+		},
+		{
+			"offsets": [
+				-199,
+				-590
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bambi down"
+		},
+		{
+			"offsets": [
+				-133,
+				-340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bambi up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bambi 3D",
+	"position": [
+		-360,
+		-780
+	],
+	"healthicon": "bambi3d",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		185,
+		0
+	],
+	"camera_position": [
+		270,
+		560
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

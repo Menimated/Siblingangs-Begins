@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "remasteredzuki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow, Is this really a place?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfnew",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It is."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "remasteredKazashi",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I know you can do it, Zuki!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "himari",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you can only do a gibbirsh, Right Zuki?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "remasteredZuki",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "Yeah, just like Boyfriend did!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfnew",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BEEP"
+		}
+	]
+}

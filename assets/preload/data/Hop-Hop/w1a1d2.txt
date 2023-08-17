@@ -1,0 +1,2 @@
+@bgChange src="dialogue/part1/4" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true" voclip="zukiintro"
+@dialogue pos="L" portrait="zuki" nameTag="" text="It sounds like that I just heard it! What do we have here now?" voclip="week1/21"

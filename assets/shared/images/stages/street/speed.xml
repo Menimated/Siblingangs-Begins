@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speed.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tunnel0000" x="20" y="20" width="1542" height="3657"/>
+	<SubTexture name="tunnel0001" x="1582" y="20" width="1542" height="3657"/>
+	<SubTexture name="tunnel0002" x="20" y="3697" width="1542" height="3657"/>
+	<SubTexture name="tunnel0003" x="1582" y="3697" width="1542" height="3657"/>
+</TextureAtlas>

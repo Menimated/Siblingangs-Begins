@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LoadingAlone.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Load0000" x="0" y="0" width="397" height="71"/>
+	<SubTexture name="Load0001" x="0" y="0" width="397" height="71"/>
+	<SubTexture name="Load0002" x="0" y="0" width="397" height="71"/>
+	<SubTexture name="Load0003" x="0" y="0" width="397" height="71"/>
+	<SubTexture name="Load0004" x="0" y="0" width="397" height="71"/>
+	<SubTexture name="Load0005" x="0" y="0" width="397" height="71"/>
+	<SubTexture name="Load0006" x="0" y="0" width="397" height="71"/>
+	<SubTexture name="Load0007" x="0" y="0" width="397" height="71"/>
+	<SubTexture name="Load0008" x="0" y="0" width="397" height="71"/>
+	<SubTexture name="Load0009" x="0" y="0" width="397" height="71"/>
+	<SubTexture name="Load0010" x="0" y="0" width="397" height="71"/>
+	<SubTexture name="Load0011" x="0" y="0" width="397" height="71"/>
+	<SubTexture name="Load0012" x="0" y="0" width="397" height="71"/>
+	<SubTexture name="Load0013" x="0" y="0" width="397" height="71"/>
+</TextureAtlas>

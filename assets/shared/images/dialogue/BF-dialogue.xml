@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF-dialogue.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="20" y="20" width="387" height="399"/>
+	<SubTexture name="confused0000" x="427" y="20" width="396" height="407"/>
+	<SubTexture name="hey0000" x="20" y="447" width="414" height="412"/>
+	<SubTexture name="pissed0000" x="454" y="447" width="381" height="407"/>
+	<SubTexture name="shock0000" x="20" y="879" width="399" height="389"/>
+	<SubTexture name="talk0000" x="439" y="879" width="398" height="412"/>
+</TextureAtlas>

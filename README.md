@@ -26,7 +26,7 @@ If you want video support on your mod, simply do `haxelib install hxCodec` on a 
 otherwise, you can delete the "VIDEOS_ALLOWED" Line on Project.xml
 
 ## Credits:
-* Menimated - Main Programmer, Artist, Compesoer, Charter
+* Menimated - Main Programmer, Artist, Composer, Charter
 * ChampionKnightEX - Zuki voice actor
 * OmegaDragon3552 - Icon artist and Charter
 * Killer Avec Rage - Charter
